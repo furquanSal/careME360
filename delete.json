@@ -1,0 +1,3290 @@
+{
+    "data": [
+        {
+            "id": 2,
+            "attributes": {
+                "Name": "Apollo Health City",
+                "Address": "Jubilee Hills, Hyderabad",
+                "Email": "info@apollohospitals.com",
+                "Website": "https://www.apollohospitals.com",
+                "Phone": null,
+                "Description": "Established by Dr Prathap C Reddy in 1983, Apollo Healthcare has a robust presence across the healthcare ecosystem. From routine wellness & preventive health care to innovative life-saving treatments and diagnostic services, Apollo Hospitals has touched more than 200 million lives from over 120 countries",
+                "Premium": true,
+                "OpeningHours": "06:00:00.000",
+                "createdAt": "2023-12-11T21:11:46.841Z",
+                "updatedAt": "2023-12-12T01:30:58.648Z",
+                "publishedAt": "2023-12-11T21:12:02.744Z",
+                "views": 8.7,
+                "image": {
+                    "data": {
+                        "id": 17,
+                        "attributes": {
+                            "name": "download.jpg",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 275,
+                            "height": 183,
+                            "formats": {
+                                "thumbnail": {
+                                    "ext": ".jpg",
+                                    "url": "https://res.cloudinary.com/dm5ey9xov/image/upload/v1702329543/thumbnail_download_404e4938b7.jpg",
+                                    "hash": "thumbnail_download_404e4938b7",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_download.jpg",
+                                    "path": null,
+                                    "size": 10.9,
+                                    "width": 234,
+                                    "height": 156,
+                                    "provider_metadata": {
+                                        "public_id": "thumbnail_download_404e4938b7",
+                                        "resource_type": "image"
+                                    }
+                                }
+                            },
+                            "hash": "download_404e4938b7",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "size": 10.85,
+                            "url": "https://res.cloudinary.com/dm5ey9xov/image/upload/v1702329543/download_404e4938b7.jpg",
+                            "previewUrl": null,
+                            "provider": "cloudinary",
+                            "provider_metadata": {
+                                "public_id": "download_404e4938b7",
+                                "resource_type": "image"
+                            },
+                            "createdAt": "2023-12-11T21:19:04.200Z",
+                            "updatedAt": "2023-12-11T21:19:04.200Z"
+                        }
+                    }
+                },
+                "categories": {
+                    "data": [
+                        {
+                            "id": 2,
+                            "attributes": {
+                                "Name": "Cardiologist",
+                                "createdAt": "2023-12-11T20:40:00.511Z",
+                                "updatedAt": "2023-12-11T20:52:09.053Z",
+                                "publishedAt": "2023-12-11T20:40:01.261Z"
+                            }
+                        },
+                        {
+                            "id": 3,
+                            "attributes": {
+                                "Name": "Neurologist",
+                                "createdAt": "2023-12-11T20:40:22.943Z",
+                                "updatedAt": "2023-12-11T20:51:51.481Z",
+                                "publishedAt": "2023-12-11T20:40:23.666Z"
+                            }
+                        },
+                        {
+                            "id": 1,
+                            "attributes": {
+                                "Name": "Dentist",
+                                "createdAt": "2023-12-11T20:36:04.237Z",
+                                "updatedAt": "2023-12-11T20:52:00.715Z",
+                                "publishedAt": "2023-12-11T20:36:05.527Z"
+                            }
+                        },
+                        {
+                            "id": 4,
+                            "attributes": {
+                                "Name": "Orthopaedic ",
+                                "createdAt": "2023-12-11T20:40:40.624Z",
+                                "updatedAt": "2023-12-11T20:51:39.394Z",
+                                "publishedAt": "2023-12-11T20:40:41.377Z"
+                            }
+                        },
+                        {
+                            "id": 5,
+                            "attributes": {
+                                "Name": "Paediatric",
+                                "createdAt": "2023-12-11T20:41:03.475Z",
+                                "updatedAt": "2023-12-11T20:51:25.191Z",
+                                "publishedAt": "2023-12-11T20:41:04.213Z"
+                            }
+                        },
+                        {
+                            "id": 6,
+                            "attributes": {
+                                "Name": "Urologist",
+                                "createdAt": "2023-12-12T01:07:50.795Z",
+                                "updatedAt": "2023-12-12T01:07:55.403Z",
+                                "publishedAt": "2023-12-12T01:07:55.398Z"
+                            }
+                        },
+                        {
+                            "id": 7,
+                            "attributes": {
+                                "Name": "Gynaecologist",
+                                "createdAt": "2023-12-12T01:08:39.199Z",
+                                "updatedAt": "2023-12-12T01:08:40.008Z",
+                                "publishedAt": "2023-12-12T01:08:40.004Z"
+                            }
+                        },
+                        {
+                            "id": 8,
+                            "attributes": {
+                                "Name": "Radiologist",
+                                "createdAt": "2023-12-12T01:10:04.465Z",
+                                "updatedAt": "2023-12-12T01:10:05.781Z",
+                                "publishedAt": "2023-12-12T01:10:05.779Z"
+                            }
+                        }
+                    ]
+                },
+                "appointments": {
+                    "data": [
+                        {
+                            "id": 47,
+                            "attributes": {
+                                "UserName": "Mohammed Furquan",
+                                "Email": "mohammedfurquan2002@gmail.com",
+                                "Date": "2023-12-13T11:37:21.212Z",
+                                "Time": "9:00 AM",
+                                "Note": "Qqqq",
+                                "createdAt": "2023-12-12T11:37:26.559Z",
+                                "updatedAt": "2023-12-12T11:37:26.559Z",
+                                "publishedAt": "2023-12-12T11:37:26.555Z"
+                            }
+                        },
+                        {
+                            "id": 48,
+                            "attributes": {
+                                "UserName": "Mohammed Furquan",
+                                "Email": "mohammedfurquan2002@gmail.com",
+                                "Date": "2023-12-13T11:43:04.004Z",
+                                "Time": "9:00 AM",
+                                "Note": "Re",
+                                "createdAt": "2023-12-12T11:43:07.775Z",
+                                "updatedAt": "2023-12-12T11:43:07.775Z",
+                                "publishedAt": "2023-12-12T11:43:07.771Z"
+                            }
+                        }
+                    ]
+                },
+                "doctors": {
+                    "data": [
+                        {
+                            "id": 1,
+                            "attributes": {
+                                "Name": "Dr. Sanjay Maitra",
+                                "Address": "Jublie Hills, Hyderabad",
+                                "Patients": "500+",
+                                "Year_of_Experience": "26",
+                                "StartTime": "08:00:00.000",
+                                "EndTime": "21:00:00.000",
+                                "About": "Dr. Sanjay Maitra is a reputed Nephrologist/Renal Specialist and Critical Care Medicine in Hyderabad with over 26 years of experience. He has pursued his MBBS from University of Calcutta in 1986, MD - Internal Medicine from Maharshi Dayanand University, Rohtak in 1991, DM - Nephrology from POSTGRADUATE INSTITUTE OF MEDICAL EDUCATION AND RESEARCH and CHANDIGARH in 1995. He currently practices at Goodwill Hospital - Kidney And Surgical Centre in Banjara Hills(Hyderabad), Apollo Health City in Jubilee Hills(Hyderabad) and Apollo Hospitals in Jubilee Hills(Hyderabad). He holds membership of Medical Council of India (MCI), Indian Society Of Nephrology, Indian Society of Peritoneal Dialysis and ASSOCIATE MEMBER OF AMERICAN SOCIETY OF NEPHROLOGY.",
+                                "createdAt": "2023-12-12T01:15:07.798Z",
+                                "updatedAt": "2023-12-12T01:28:28.469Z",
+                                "publishedAt": "2023-12-12T01:15:10.287Z"
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "attributes": {
+                                "Name": "Dr. Arun Shah",
+                                "Address": "Film Nagar, Hyderabad",
+                                "Patients": "850+",
+                                "Year_of_Experience": "31",
+                                "StartTime": "09:00:00.000",
+                                "EndTime": "18:00:00.000",
+                                "About": "Dr. Arun Shah is a reputed doctor in Hyderabad with over 31 years of experience.\n\nExperiences\n\nSenior consultant urologist\nApollo Hospitals\n1991 - Present\n\nConsultant In Urology\nGrasim Hosptial, Nagada Mp\n1985 - 1989",
+                                "createdAt": "2023-12-12T01:37:34.706Z",
+                                "updatedAt": "2023-12-12T01:37:35.941Z",
+                                "publishedAt": "2023-12-12T01:37:35.937Z"
+                            }
+                        },
+                        {
+                            "id": 3,
+                            "attributes": {
+                                "Name": "Dr. Sharat Kumar P",
+                                "Address": "Jublie Hills, Hyderabad",
+                                "Patients": "900+",
+                                "Year_of_Experience": "30",
+                                "StartTime": "11:00:00.000",
+                                "EndTime": "14:00:00.000",
+                                "About": "Dr. Sharat Kumar P is a highly skilled doctor in Hyderabad.",
+                                "createdAt": "2023-12-12T01:39:38.878Z",
+                                "updatedAt": "2023-12-12T01:39:39.688Z",
+                                "publishedAt": "2023-12-12T01:39:39.683Z"
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": 3,
+            "attributes": {
+                "Name": "KIMS Hospitals",
+                "Address": "Gachibowli, Hyderabad",
+                "Email": "assistance@kimshospitals.com",
+                "Website": "https://www.kimshospitals.com/gachibowli",
+                "Phone": null,
+                "Description": "Our Hospitals at Gachibowli, commenced in 2018 is strategically located with 250 operational beds and offers the most advanced therapeutic, invasive and non-invasive procedures in all major specialities and emergency care 24x7 by experienced and skilled medical & surgical faculty. \n\nOur Hospitals, Gachibowli takes pride in its hospitality and its commitment to deliver the best services from the heart. This tertiary care center caters to health care needs of people residing in Gachibowli, Kondapur, Madhapur, Raidurg, Jubilee Hills, Mehdipatnam and in neighbouring areas of the Ranga Reddy district. \n\nIn the last calendar year we have treated about 65000 Out-patients and about 7500 In-patients majorly contributed by  Orthopaedics, Neurosciences, Gastroenterology, Cardiology, Nephrology and Internal Medicine.",
+                "Premium": true,
+                "OpeningHours": "07:00:00.000",
+                "createdAt": "2023-12-11T21:28:08.124Z",
+                "updatedAt": "2023-12-11T22:06:52.528Z",
+                "publishedAt": "2023-12-11T21:28:09.317Z",
+                "views": 6.9,
+                "image": {
+                    "data": {
+                        "id": 18,
+                        "attributes": {
+                            "name": "dr-naveenchandra-acharya-kims-hospital-kondapur-hyderabad-urologist-doctors-k9h38a9m5g.avif",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": null,
+                            "height": null,
+                            "formats": null,
+                            "hash": "dr_naveenchandra_acharya_kims_hospital_kondapur_hyderabad_urologist_doctors_k9h38a9m5g_db9a69cdf3",
+                            "ext": ".avif",
+                            "mime": "image/avif",
+                            "size": 9.65,
+                            "url": "https://res.cloudinary.com/dm5ey9xov/image/upload/v1702329961/dr_naveenchandra_acharya_kims_hospital_kondapur_hyderabad_urologist_doctors_k9h38a9m5g_db9a69cdf3.avif",
+                            "previewUrl": null,
+                            "provider": "cloudinary",
+                            "provider_metadata": {
+                                "public_id": "dr_naveenchandra_acharya_kims_hospital_kondapur_hyderabad_urologist_doctors_k9h38a9m5g_db9a69cdf3",
+                                "resource_type": "image"
+                            },
+                            "createdAt": "2023-12-11T21:26:01.766Z",
+                            "updatedAt": "2023-12-11T21:26:01.766Z"
+                        }
+                    }
+                },
+                "categories": {
+                    "data": [
+                        {
+                            "id": 2,
+                            "attributes": {
+                                "Name": "Cardiologist",
+                                "createdAt": "2023-12-11T20:40:00.511Z",
+                                "updatedAt": "2023-12-11T20:52:09.053Z",
+                                "publishedAt": "2023-12-11T20:40:01.261Z"
+                            }
+                        },
+                        {
+                            "id": 3,
+                            "attributes": {
+                                "Name": "Neurologist",
+                                "createdAt": "2023-12-11T20:40:22.943Z",
+                                "updatedAt": "2023-12-11T20:51:51.481Z",
+                                "publishedAt": "2023-12-11T20:40:23.666Z"
+                            }
+                        },
+                        {
+                            "id": 7,
+                            "attributes": {
+                                "Name": "Gynaecologist",
+                                "createdAt": "2023-12-12T01:08:39.199Z",
+                                "updatedAt": "2023-12-12T01:08:40.008Z",
+                                "publishedAt": "2023-12-12T01:08:40.004Z"
+                            }
+                        }
+                    ]
+                },
+                "appointments": {
+                    "data": []
+                },
+                "doctors": {
+                    "data": [
+                        {
+                            "id": 4,
+                            "attributes": {
+                                "Name": "Dr. Jyotsna Myneni",
+                                "Address": "Gachibowli, Hyderabad",
+                                "Patients": "350+",
+                                "Year_of_Experience": "13",
+                                "StartTime": "10:00:00.000",
+                                "EndTime": "16:00:00.000",
+                                "About": "Dr. Jyotsna Myneni is a reputed doctor in Hyderabad with over 13 years of experience.",
+                                "createdAt": "2023-12-12T01:42:00.311Z",
+                                "updatedAt": "2023-12-12T01:42:01.158Z",
+                                "publishedAt": "2023-12-12T01:42:01.151Z"
+                            }
+                        },
+                        {
+                            "id": 5,
+                            "attributes": {
+                                "Name": "Dr. Amber S.papalkar",
+                                "Address": "Gachibowli, Hyderabad",
+                                "Patients": "400+",
+                                "Year_of_Experience": "16",
+                                "StartTime": "10:00:00.000",
+                                "EndTime": "16:00:00.000",
+                                "About": "Dr. Amber S.papalkar is a reputed doctor in Hyderabad with over 16 years of experience.",
+                                "createdAt": "2023-12-12T01:43:40.822Z",
+                                "updatedAt": "2023-12-12T01:43:41.711Z",
+                                "publishedAt": "2023-12-12T01:43:41.705Z"
+                            }
+                        },
+                        {
+                            "id": 6,
+                            "attributes": {
+                                "Name": "Dr. Srikanth V S",
+                                "Address": "Gachibowli, Hyderabad",
+                                "Patients": "360+",
+                                "Year_of_Experience": "10",
+                                "StartTime": "10:00:00.000",
+                                "EndTime": "16:00:00.000",
+                                "About": "Dr. Srikanth V S is a renowned doctor in Hyderabad.",
+                                "createdAt": "2023-12-12T01:45:30.981Z",
+                                "updatedAt": "2023-12-12T01:48:53.371Z",
+                                "publishedAt": "2023-12-12T01:45:34.288Z"
+                            }
+                        },
+                        {
+                            "id": 12,
+                            "attributes": {
+                                "Name": "Dr. Suresh Cheekatla",
+                                "Address": "Gachibowli, Hyderabad",
+                                "Patients": "380+",
+                                "Year_of_Experience": "14",
+                                "StartTime": "10:00:00.000",
+                                "EndTime": "16:00:00.000",
+                                "About": "Dr. Suresh Cheekatla is one of the most esteemed doctor in Hyderabad.",
+                                "createdAt": "2023-12-12T02:04:30.857Z",
+                                "updatedAt": "2023-12-12T02:04:31.786Z",
+                                "publishedAt": "2023-12-12T02:04:31.780Z"
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": 4,
+            "attributes": {
+                "Name": "Aster Prime Hospital",
+                "Address": "Ameerpet, Hyderabad",
+                "Email": "crm.prime@asterhospital.com",
+                "Website": "https://www.asterhospitals.in/hospitals/aster-prime-hyderabad",
+                "Phone": null,
+                "Description": "Aster Prime Hospitals offer quaternary medical care with best-in-class technology and facilities on par with global standards to ensure world-class healthcare to all the patients. As the leading healthcare provider, the hospital provides patients with the latest technological innovations for diagnosis and treatment of the most acute clinical conditions, highly skilled Medical and Nursing Expertise, round the clock personalized care promoting faster recovery of the patient. Aster Prime Hospital is a private, full-fledged 204-bed multi-speciality hospital situated in the strategic location of Ameerpet at Hyderabad. As one of the pioneer corporate healthcare facilities in the state of Telangana, Aster Prime Hospitals has always been at the forefront offering healthcare services of international standards right here at Hyderabad within the reach of its community.",
+                "Premium": false,
+                "OpeningHours": "07:45:00.000",
+                "createdAt": "2023-12-11T21:31:57.254Z",
+                "updatedAt": "2023-12-11T22:06:32.153Z",
+                "publishedAt": "2023-12-11T21:31:58.612Z",
+                "views": 2.4,
+                "image": {
+                    "data": {
+                        "id": 19,
+                        "attributes": {
+                            "name": "download.jpg",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 293,
+                            "height": 172,
+                            "formats": {
+                                "thumbnail": {
+                                    "ext": ".jpg",
+                                    "url": "https://res.cloudinary.com/dm5ey9xov/image/upload/v1702330246/thumbnail_download_35c4f369a3.jpg",
+                                    "hash": "thumbnail_download_35c4f369a3",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_download.jpg",
+                                    "path": null,
+                                    "size": 9.14,
+                                    "width": 245,
+                                    "height": 144,
+                                    "provider_metadata": {
+                                        "public_id": "thumbnail_download_35c4f369a3",
+                                        "resource_type": "image"
+                                    }
+                                }
+                            },
+                            "hash": "download_35c4f369a3",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "size": 8.43,
+                            "url": "https://res.cloudinary.com/dm5ey9xov/image/upload/v1702330246/download_35c4f369a3.jpg",
+                            "previewUrl": null,
+                            "provider": "cloudinary",
+                            "provider_metadata": {
+                                "public_id": "download_35c4f369a3",
+                                "resource_type": "image"
+                            },
+                            "createdAt": "2023-12-11T21:30:47.210Z",
+                            "updatedAt": "2023-12-11T21:30:47.210Z"
+                        }
+                    }
+                },
+                "categories": {
+                    "data": [
+                        {
+                            "id": 5,
+                            "attributes": {
+                                "Name": "Paediatric",
+                                "createdAt": "2023-12-11T20:41:03.475Z",
+                                "updatedAt": "2023-12-11T20:51:25.191Z",
+                                "publishedAt": "2023-12-11T20:41:04.213Z"
+                            }
+                        },
+                        {
+                            "id": 1,
+                            "attributes": {
+                                "Name": "Dentist",
+                                "createdAt": "2023-12-11T20:36:04.237Z",
+                                "updatedAt": "2023-12-11T20:52:00.715Z",
+                                "publishedAt": "2023-12-11T20:36:05.527Z"
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "attributes": {
+                                "Name": "Cardiologist",
+                                "createdAt": "2023-12-11T20:40:00.511Z",
+                                "updatedAt": "2023-12-11T20:52:09.053Z",
+                                "publishedAt": "2023-12-11T20:40:01.261Z"
+                            }
+                        }
+                    ]
+                },
+                "appointments": {
+                    "data": []
+                },
+                "doctors": {
+                    "data": [
+                        {
+                            "id": 7,
+                            "attributes": {
+                                "Name": "Dr. A.k. Purohit",
+                                "Address": "Ameerpet, Hyderabad",
+                                "Patients": "600+",
+                                "Year_of_Experience": "39",
+                                "StartTime": "13:00:00.000",
+                                "EndTime": "16:00:00.000",
+                                "About": "MBBS | MS - General Surgery | MCh - Neuro Surgery\nDr. A.k. Purohit is a renowned doctor in Hyderabad.",
+                                "createdAt": "2023-12-12T01:54:38.597Z",
+                                "updatedAt": "2023-12-12T01:54:39.910Z",
+                                "publishedAt": "2023-12-12T01:54:39.906Z"
+                            }
+                        },
+                        {
+                            "id": 13,
+                            "attributes": {
+                                "Name": "Dr. Raghu C",
+                                "Address": "Ameerpet, Hyderabad",
+                                "Patients": "600+",
+                                "Year_of_Experience": "25",
+                                "StartTime": "11:00:00.000",
+                                "EndTime": "13:00:00.000",
+                                "About": "Dr. Raghu C is a renowned doctor in Hyderabad.",
+                                "createdAt": "2023-12-12T02:05:55.610Z",
+                                "updatedAt": "2023-12-12T02:05:56.678Z",
+                                "publishedAt": "2023-12-12T02:05:56.671Z"
+                            }
+                        },
+                        {
+                            "id": 16,
+                            "attributes": {
+                                "Name": "Dr. Sushmitha",
+                                "Address": "Ameerpet, Hyderabad",
+                                "Patients": "350+",
+                                "Year_of_Experience": "13",
+                                "StartTime": "10:00:00.000",
+                                "EndTime": "14:00:00.000",
+                                "About": "Dr. Sushmitha is one of the most esteemed doctor in Hyderabad.",
+                                "createdAt": "2023-12-12T02:12:31.034Z",
+                                "updatedAt": "2023-12-12T02:12:32.300Z",
+                                "publishedAt": "2023-12-12T02:12:32.296Z"
+                            }
+                        },
+                        {
+                            "id": 19,
+                            "attributes": {
+                                "Name": "Dr. B.s.v. Raju ",
+                                "Address": "Ameerpet, Hyderabad",
+                                "Patients": "500+",
+                                "Year_of_Experience": "31",
+                                "StartTime": "11:00:00.000",
+                                "EndTime": "13:00:00.000",
+                                "About": "Dr. B.s.v. Raju is a reputed doctor in Hyderabad with over 31 years of experience.",
+                                "createdAt": "2023-12-12T02:17:01.495Z",
+                                "updatedAt": "2023-12-12T02:17:02.791Z",
+                                "publishedAt": "2023-12-12T02:17:02.780Z"
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": 5,
+            "attributes": {
+                "Name": "Medicover Hospitals",
+                "Address": "Hitech City, Hyderabad",
+                "Email": "info@medicoverhospitals.in",
+                "Website": "www.medicoverhospitals.in",
+                "Phone": null,
+                "Description": "Medicover is a globally recognised healthcare brand with operations in 12 countries: Germany, Sweden, Poland, Turkey, Belarus, Bulgaria, Georgia, Hungary, Romania, Serbia, Moldova, Ukraine, and India.\n\nMedicover is a leading Multispecialty Hospital chain with a significant presence in India. We provide a broad spectrum of health care services and have an extensive network of clinics, hospitals, specialty care facilities, Fertility Centers, and diagnostic labs.\n\nMedicover Hospitals is spread across the three states of Telangana, Andhra Pradesh, and Maharashtra treating millions of patients every year with a focus on augmenting healthcare standards in India. We have renowned medical teams who work with the greatest technologies and international evidence-based protocols which offer the most comprehensive treatment across all specialties of medicines.",
+                "Premium": true,
+                "OpeningHours": "06:00:00.000",
+                "createdAt": "2023-12-11T21:35:12.634Z",
+                "updatedAt": "2023-12-11T22:07:03.683Z",
+                "publishedAt": "2023-12-11T21:35:13.708Z",
+                "views": 7.1,
+                "image": {
+                    "data": {
+                        "id": 20,
+                        "attributes": {
+                            "name": "download.jpg",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 303,
+                            "height": 167,
+                            "formats": {
+                                "thumbnail": {
+                                    "ext": ".jpg",
+                                    "url": "https://res.cloudinary.com/dm5ey9xov/image/upload/v1702330448/thumbnail_download_61d894723f.jpg",
+                                    "hash": "thumbnail_download_61d894723f",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_download.jpg",
+                                    "path": null,
+                                    "size": 11.67,
+                                    "width": 245,
+                                    "height": 135,
+                                    "provider_metadata": {
+                                        "public_id": "thumbnail_download_61d894723f",
+                                        "resource_type": "image"
+                                    }
+                                }
+                            },
+                            "hash": "download_61d894723f",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "size": 12.86,
+                            "url": "https://res.cloudinary.com/dm5ey9xov/image/upload/v1702330448/download_61d894723f.jpg",
+                            "previewUrl": null,
+                            "provider": "cloudinary",
+                            "provider_metadata": {
+                                "public_id": "download_61d894723f",
+                                "resource_type": "image"
+                            },
+                            "createdAt": "2023-12-11T21:34:09.383Z",
+                            "updatedAt": "2023-12-11T21:34:09.383Z"
+                        }
+                    }
+                },
+                "categories": {
+                    "data": [
+                        {
+                            "id": 3,
+                            "attributes": {
+                                "Name": "Neurologist",
+                                "createdAt": "2023-12-11T20:40:22.943Z",
+                                "updatedAt": "2023-12-11T20:51:51.481Z",
+                                "publishedAt": "2023-12-11T20:40:23.666Z"
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "attributes": {
+                                "Name": "Cardiologist",
+                                "createdAt": "2023-12-11T20:40:00.511Z",
+                                "updatedAt": "2023-12-11T20:52:09.053Z",
+                                "publishedAt": "2023-12-11T20:40:01.261Z"
+                            }
+                        },
+                        {
+                            "id": 8,
+                            "attributes": {
+                                "Name": "Radiologist",
+                                "createdAt": "2023-12-12T01:10:04.465Z",
+                                "updatedAt": "2023-12-12T01:10:05.781Z",
+                                "publishedAt": "2023-12-12T01:10:05.779Z"
+                            }
+                        }
+                    ]
+                },
+                "appointments": {
+                    "data": []
+                },
+                "doctors": {
+                    "data": [
+                        {
+                            "id": 8,
+                            "attributes": {
+                                "Name": "Dr. Prabha Agarwal",
+                                "Address": "Hitech City, Hyderabad",
+                                "Patients": "260+",
+                                "Year_of_Experience": "21",
+                                "StartTime": "10:00:00.000",
+                                "EndTime": "14:00:00.000",
+                                "About": "Dr. Prabha Agarwal is a reputed doctor in Hyderabad with over 21 years of experience.",
+                                "createdAt": "2023-12-12T01:56:26.837Z",
+                                "updatedAt": "2023-12-12T01:56:27.961Z",
+                                "publishedAt": "2023-12-12T01:56:27.956Z"
+                            }
+                        },
+                        {
+                            "id": 14,
+                            "attributes": {
+                                "Name": "Dr. B. Radhika",
+                                "Address": "Hitech City, Hyderabad",
+                                "Patients": "550+",
+                                "Year_of_Experience": "19",
+                                "StartTime": "10:00:00.000",
+                                "EndTime": "14:00:00.000",
+                                "About": "Dr. B. Radhika is a reputed doctor in Hyderabad with over 19 years of experience.",
+                                "createdAt": "2023-12-12T02:07:21.310Z",
+                                "updatedAt": "2023-12-12T02:07:22.635Z",
+                                "publishedAt": "2023-12-12T02:07:22.630Z"
+                            }
+                        },
+                        {
+                            "id": 17,
+                            "attributes": {
+                                "Name": "Dr. R. Suneel",
+                                "Address": "Hitech City, Hyderabad",
+                                "Patients": "400+",
+                                "Year_of_Experience": "12",
+                                "StartTime": "11:00:00.000",
+                                "EndTime": "14:00:00.000",
+                                "About": "Dr. R. Suneel is one of the most esteemed doctor in Hyderabad.",
+                                "createdAt": "2023-12-12T02:13:33.465Z",
+                                "updatedAt": "2023-12-12T02:13:34.961Z",
+                                "publishedAt": "2023-12-12T02:13:34.956Z"
+                            }
+                        },
+                        {
+                            "id": 22,
+                            "attributes": {
+                                "Name": "Dr. Rajesh P",
+                                "Address": "Hitech City, Hyderabad",
+                                "Patients": "550+",
+                                "Year_of_Experience": "15",
+                                "StartTime": "11:00:00.000",
+                                "EndTime": "15:00:00.000",
+                                "About": "Dr. Rajesh P is a renowned doctor in Hyderabad.",
+                                "createdAt": "2023-12-12T02:21:20.320Z",
+                                "updatedAt": "2023-12-12T02:21:21.434Z",
+                                "publishedAt": "2023-12-12T02:21:21.429Z"
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": 6,
+            "attributes": {
+                "Name": "Aware Gleneagles Global Hospitals",
+                "Address": "Lb Nagar, Hyderabad",
+                "Email": "contact@emailid.com",
+                "Website": "https://awaregleneaglesglobalhospitallbnagar.com/",
+                "Phone": null,
+                "Description": "Aware Gleneagles Global Hospital at LB Nagar, Hyderabad is a community tertiary care hospital with established clinical work in all major medical specialties. Key specialties include Emergency Care, Critical Care, Cardiac Sciences, Neurosciences, Orthopaedics, Gastroenterology and Renal Sciences. The NABH, NABB and NABL accredited hospital operates 150 beds.\n\nA modern CathLab, 6 operation theatres offer cutting edge emergency and critical care management following internationally approved clinical protocols. Clinical excellence has earned the hospital tie-ups with all major cashless health insurance players.\n\nGleneagles Global Hospital (A unit of Ravindranath GE Medical Associates Private Limited) is a part of IHH Healthcare, one of the world’s largest healthcare providers. With its full spectrum of integrated services, dedicated people, reach and scale, and commitment to quality and safety, IHH aspires to be the world’s most trusted healthcare services network, united by a single purpose: to touch lives and transform care. More information on Aware Gleneagles Global Hospital can be found at hospital website.",
+                "Premium": false,
+                "OpeningHours": "08:00:00.000",
+                "createdAt": "2023-12-11T21:37:29.943Z",
+                "updatedAt": "2023-12-11T22:06:40.113Z",
+                "publishedAt": "2023-12-11T21:37:31.269Z",
+                "views": 1.7,
+                "image": {
+                    "data": {
+                        "id": 21,
+                        "attributes": {
+                            "name": "Aware_Gleneagles_Global_Hospital_LB-Nagar-Hyderabad-319-2.jpg",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 1706,
+                            "height": 960,
+                            "formats": {
+                                "thumbnail": {
+                                    "ext": ".jpg",
+                                    "url": "https://res.cloudinary.com/dm5ey9xov/image/upload/v1702330663/thumbnail_Aware_Gleneagles_Global_Hospital_LB_Nagar_Hyderabad_319_2_8bcc9da873.jpg",
+                                    "hash": "thumbnail_Aware_Gleneagles_Global_Hospital_LB_Nagar_Hyderabad_319_2_8bcc9da873",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_Aware_Gleneagles_Global_Hospital_LB-Nagar-Hyderabad-319-2.jpg",
+                                    "path": null,
+                                    "size": 10.4,
+                                    "width": 245,
+                                    "height": 138,
+                                    "provider_metadata": {
+                                        "public_id": "thumbnail_Aware_Gleneagles_Global_Hospital_LB_Nagar_Hyderabad_319_2_8bcc9da873",
+                                        "resource_type": "image"
+                                    }
+                                }
+                            },
+                            "hash": "Aware_Gleneagles_Global_Hospital_LB_Nagar_Hyderabad_319_2_8bcc9da873",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "size": 309.91,
+                            "url": "https://res.cloudinary.com/dm5ey9xov/image/upload/v1702330664/Aware_Gleneagles_Global_Hospital_LB_Nagar_Hyderabad_319_2_8bcc9da873.jpg",
+                            "previewUrl": null,
+                            "provider": "cloudinary",
+                            "provider_metadata": {
+                                "public_id": "Aware_Gleneagles_Global_Hospital_LB_Nagar_Hyderabad_319_2_8bcc9da873",
+                                "resource_type": "image"
+                            },
+                            "createdAt": "2023-12-11T21:37:44.969Z",
+                            "updatedAt": "2023-12-11T21:37:44.969Z"
+                        }
+                    }
+                },
+                "categories": {
+                    "data": [
+                        {
+                            "id": 2,
+                            "attributes": {
+                                "Name": "Cardiologist",
+                                "createdAt": "2023-12-11T20:40:00.511Z",
+                                "updatedAt": "2023-12-11T20:52:09.053Z",
+                                "publishedAt": "2023-12-11T20:40:01.261Z"
+                            }
+                        },
+                        {
+                            "id": 4,
+                            "attributes": {
+                                "Name": "Orthopaedic ",
+                                "createdAt": "2023-12-11T20:40:40.624Z",
+                                "updatedAt": "2023-12-11T20:51:39.394Z",
+                                "publishedAt": "2023-12-11T20:40:41.377Z"
+                            }
+                        }
+                    ]
+                },
+                "appointments": {
+                    "data": []
+                },
+                "doctors": {
+                    "data": []
+                }
+            }
+        },
+        {
+            "id": 7,
+            "attributes": {
+                "Name": "Virinchi Hospitals",
+                "Address": "Banjara Hills, Hyderabad",
+                "Email": "contact_us@virinchihospitals.com",
+                "Website": "https://virinchihospitals.com/",
+                "Phone": null,
+                "Description": "- 3 facilities located in Hyderabad\n- Virinchi Hospital is the flagship 500-bed high-end facility at Banjara Hills spread across 350,000 sq.ft., focused on critical care and equipped with 11 OTs and 140 ICU beds\n- Virinchi also operates 2 economy brand hospitals under ‘Bristlecone’, a 140-bed hospital at Hayathnagar and a 60-bed hospital at Barkatpura in Hyderabad.",
+                "Premium": true,
+                "OpeningHours": "05:00:00.000",
+                "createdAt": "2023-12-11T21:40:20.347Z",
+                "updatedAt": "2023-12-11T22:07:40.364Z",
+                "publishedAt": "2023-12-11T21:40:21.523Z",
+                "views": 8.9,
+                "image": {
+                    "data": {
+                        "id": 23,
+                        "attributes": {
+                            "name": "1692350350virinchi-hospital.webp",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 680,
+                            "height": 510,
+                            "formats": {
+                                "thumbnail": {
+                                    "ext": ".webp",
+                                    "url": "https://res.cloudinary.com/dm5ey9xov/image/upload/v1702330890/thumbnail_1692350350virinchi_hospital_a4eab406c8.webp",
+                                    "hash": "thumbnail_1692350350virinchi_hospital_a4eab406c8",
+                                    "mime": "image/webp",
+                                    "name": "thumbnail_1692350350virinchi-hospital.webp",
+                                    "path": null,
+                                    "size": 4.67,
+                                    "width": 208,
+                                    "height": 156,
+                                    "provider_metadata": {
+                                        "public_id": "thumbnail_1692350350virinchi_hospital_a4eab406c8",
+                                        "resource_type": "image"
+                                    }
+                                }
+                            },
+                            "hash": "1692350350virinchi_hospital_a4eab406c8",
+                            "ext": ".webp",
+                            "mime": "image/webp",
+                            "size": 42.92,
+                            "url": "https://res.cloudinary.com/dm5ey9xov/image/upload/v1702330890/1692350350virinchi_hospital_a4eab406c8.webp",
+                            "previewUrl": null,
+                            "provider": "cloudinary",
+                            "provider_metadata": {
+                                "public_id": "1692350350virinchi_hospital_a4eab406c8",
+                                "resource_type": "image"
+                            },
+                            "createdAt": "2023-12-11T21:41:31.388Z",
+                            "updatedAt": "2023-12-11T21:41:31.388Z"
+                        }
+                    }
+                },
+                "categories": {
+                    "data": [
+                        {
+                            "id": 2,
+                            "attributes": {
+                                "Name": "Cardiologist",
+                                "createdAt": "2023-12-11T20:40:00.511Z",
+                                "updatedAt": "2023-12-11T20:52:09.053Z",
+                                "publishedAt": "2023-12-11T20:40:01.261Z"
+                            }
+                        },
+                        {
+                            "id": 4,
+                            "attributes": {
+                                "Name": "Orthopaedic ",
+                                "createdAt": "2023-12-11T20:40:40.624Z",
+                                "updatedAt": "2023-12-11T20:51:39.394Z",
+                                "publishedAt": "2023-12-11T20:40:41.377Z"
+                            }
+                        },
+                        {
+                            "id": 3,
+                            "attributes": {
+                                "Name": "Neurologist",
+                                "createdAt": "2023-12-11T20:40:22.943Z",
+                                "updatedAt": "2023-12-11T20:51:51.481Z",
+                                "publishedAt": "2023-12-11T20:40:23.666Z"
+                            }
+                        },
+                        {
+                            "id": 5,
+                            "attributes": {
+                                "Name": "Paediatric",
+                                "createdAt": "2023-12-11T20:41:03.475Z",
+                                "updatedAt": "2023-12-11T20:51:25.191Z",
+                                "publishedAt": "2023-12-11T20:41:04.213Z"
+                            }
+                        },
+                        {
+                            "id": 6,
+                            "attributes": {
+                                "Name": "Urologist",
+                                "createdAt": "2023-12-12T01:07:50.795Z",
+                                "updatedAt": "2023-12-12T01:07:55.403Z",
+                                "publishedAt": "2023-12-12T01:07:55.398Z"
+                            }
+                        },
+                        {
+                            "id": 7,
+                            "attributes": {
+                                "Name": "Gynaecologist",
+                                "createdAt": "2023-12-12T01:08:39.199Z",
+                                "updatedAt": "2023-12-12T01:08:40.008Z",
+                                "publishedAt": "2023-12-12T01:08:40.004Z"
+                            }
+                        },
+                        {
+                            "id": 8,
+                            "attributes": {
+                                "Name": "Radiologist",
+                                "createdAt": "2023-12-12T01:10:04.465Z",
+                                "updatedAt": "2023-12-12T01:10:05.781Z",
+                                "publishedAt": "2023-12-12T01:10:05.779Z"
+                            }
+                        }
+                    ]
+                },
+                "appointments": {
+                    "data": []
+                },
+                "doctors": {
+                    "data": [
+                        {
+                            "id": 9,
+                            "attributes": {
+                                "Name": "Dr. Mustafa Faisal",
+                                "Address": "Banjara Hills, Hyderabad",
+                                "Patients": "340+",
+                                "Year_of_Experience": "14",
+                                "StartTime": "12:00:00.000",
+                                "EndTime": "23:45:00.000",
+                                "About": "Dr. Mustafa Faisal is a highly skilled doctor in Hyderabad.",
+                                "createdAt": "2023-12-12T01:58:39.561Z",
+                                "updatedAt": "2023-12-12T01:58:41.087Z",
+                                "publishedAt": "2023-12-12T01:58:41.081Z"
+                            }
+                        },
+                        {
+                            "id": 15,
+                            "attributes": {
+                                "Name": "Dr. Alluri Vasu",
+                                "Address": "Banjara Hills",
+                                "Patients": "450+",
+                                "Year_of_Experience": "15",
+                                "StartTime": "12:00:00.000",
+                                "EndTime": "23:45:00.000",
+                                "About": "Dr. Alluri Vasu is one of the most esteemed doctor in Hyderabad.",
+                                "createdAt": "2023-12-12T02:09:05.332Z",
+                                "updatedAt": "2023-12-12T02:09:06.289Z",
+                                "publishedAt": "2023-12-12T02:09:06.285Z"
+                            }
+                        },
+                        {
+                            "id": 18,
+                            "attributes": {
+                                "Name": "Dr. Shaeq Mirza",
+                                "Address": "Banjara Hills, Hyderabad",
+                                "Patients": "650+",
+                                "Year_of_Experience": "17",
+                                "StartTime": "13:00:00.000",
+                                "EndTime": "16:00:00.000",
+                                "About": "Dr. Shaeq Mirza is one of the most esteemed doctor in Hyderabad.",
+                                "createdAt": "2023-12-12T02:15:42.479Z",
+                                "updatedAt": "2023-12-12T02:15:59.272Z",
+                                "publishedAt": "2023-12-12T02:15:43.609Z"
+                            }
+                        },
+                        {
+                            "id": 20,
+                            "attributes": {
+                                "Name": "Dr. Ks Nayak",
+                                "Address": "Banjara Hills, Hyderabad",
+                                "Patients": "650+",
+                                "Year_of_Experience": "38",
+                                "StartTime": "10:00:00.000",
+                                "EndTime": "16:00:00.000",
+                                "About": "Dr. Ks Nayak is one of the most esteemed doctor in Hyderabad.",
+                                "createdAt": "2023-12-12T02:18:18.374Z",
+                                "updatedAt": "2023-12-12T02:18:19.856Z",
+                                "publishedAt": "2023-12-12T02:18:19.852Z"
+                            }
+                        },
+                        {
+                            "id": 23,
+                            "attributes": {
+                                "Name": "Dr. N. Anand",
+                                "Address": "Banjara Hills, Hyderabad",
+                                "Patients": "600+",
+                                "Year_of_Experience": "21",
+                                "StartTime": "12:00:00.000",
+                                "EndTime": "23:45:00.000",
+                                "About": "Dr. N. Anand is a renowned doctor in Hyderabad.",
+                                "createdAt": "2023-12-12T02:22:26.243Z",
+                                "updatedAt": "2023-12-12T02:22:27.622Z",
+                                "publishedAt": "2023-12-12T02:22:27.616Z"
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": 8,
+            "attributes": {
+                "Name": "Yashoda Hospitals",
+                "Address": "Madhapur, Hyderabad",
+                "Email": "query@yashodamail.com",
+                "Website": "https://www.yashodahospitals.com/",
+                "Phone": null,
+                "Description": "Yashoda Group of Hospitals, Hyderabad, India has been delivering excellence in healthcare for the last three decades. Our highly experienced personnel are well equipped with advanced technology to treat patients and adhere to international standards for all facilities and perform advanced treatment and procedures. Thus, we are trusted by patients pan-India and globally.\n\nFor our international patients, care goes beyond their hospital visit. Our International Patients Services Team addresses concerns regarding visa and travel arrangements, hotel bookings, provision of translators, and international insurance coverage, ensuring a smooth stay conducive to good health.",
+                "Premium": true,
+                "OpeningHours": "07:00:00.000",
+                "createdAt": "2023-12-11T21:44:04.923Z",
+                "updatedAt": "2023-12-11T22:07:53.791Z",
+                "publishedAt": "2023-12-11T21:44:05.972Z",
+                "views": 9.8,
+                "image": {
+                    "data": {
+                        "id": 24,
+                        "attributes": {
+                            "name": "Hitec-Building-new.jpg",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 850,
+                            "height": 560,
+                            "formats": {
+                                "thumbnail": {
+                                    "ext": ".jpg",
+                                    "url": "https://res.cloudinary.com/dm5ey9xov/image/upload/v1702330969/thumbnail_Hitec_Building_new_7b79a58941.jpg",
+                                    "hash": "thumbnail_Hitec_Building_new_7b79a58941",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_Hitec-Building-new.jpg",
+                                    "path": null,
+                                    "size": 10.4,
+                                    "width": 237,
+                                    "height": 156,
+                                    "provider_metadata": {
+                                        "public_id": "thumbnail_Hitec_Building_new_7b79a58941",
+                                        "resource_type": "image"
+                                    }
+                                }
+                            },
+                            "hash": "Hitec_Building_new_7b79a58941",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "size": 100.82,
+                            "url": "https://res.cloudinary.com/dm5ey9xov/image/upload/v1702330968/Hitec_Building_new_7b79a58941.jpg",
+                            "previewUrl": null,
+                            "provider": "cloudinary",
+                            "provider_metadata": {
+                                "public_id": "Hitec_Building_new_7b79a58941",
+                                "resource_type": "image"
+                            },
+                            "createdAt": "2023-12-11T21:42:50.252Z",
+                            "updatedAt": "2023-12-11T21:42:50.252Z"
+                        }
+                    }
+                },
+                "categories": {
+                    "data": [
+                        {
+                            "id": 2,
+                            "attributes": {
+                                "Name": "Cardiologist",
+                                "createdAt": "2023-12-11T20:40:00.511Z",
+                                "updatedAt": "2023-12-11T20:52:09.053Z",
+                                "publishedAt": "2023-12-11T20:40:01.261Z"
+                            }
+                        },
+                        {
+                            "id": 3,
+                            "attributes": {
+                                "Name": "Neurologist",
+                                "createdAt": "2023-12-11T20:40:22.943Z",
+                                "updatedAt": "2023-12-11T20:51:51.481Z",
+                                "publishedAt": "2023-12-11T20:40:23.666Z"
+                            }
+                        },
+                        {
+                            "id": 5,
+                            "attributes": {
+                                "Name": "Paediatric",
+                                "createdAt": "2023-12-11T20:41:03.475Z",
+                                "updatedAt": "2023-12-11T20:51:25.191Z",
+                                "publishedAt": "2023-12-11T20:41:04.213Z"
+                            }
+                        },
+                        {
+                            "id": 1,
+                            "attributes": {
+                                "Name": "Dentist",
+                                "createdAt": "2023-12-11T20:36:04.237Z",
+                                "updatedAt": "2023-12-11T20:52:00.715Z",
+                                "publishedAt": "2023-12-11T20:36:05.527Z"
+                            }
+                        },
+                        {
+                            "id": 4,
+                            "attributes": {
+                                "Name": "Orthopaedic ",
+                                "createdAt": "2023-12-11T20:40:40.624Z",
+                                "updatedAt": "2023-12-11T20:51:39.394Z",
+                                "publishedAt": "2023-12-11T20:40:41.377Z"
+                            }
+                        },
+                        {
+                            "id": 6,
+                            "attributes": {
+                                "Name": "Urologist",
+                                "createdAt": "2023-12-12T01:07:50.795Z",
+                                "updatedAt": "2023-12-12T01:07:55.403Z",
+                                "publishedAt": "2023-12-12T01:07:55.398Z"
+                            }
+                        },
+                        {
+                            "id": 7,
+                            "attributes": {
+                                "Name": "Gynaecologist",
+                                "createdAt": "2023-12-12T01:08:39.199Z",
+                                "updatedAt": "2023-12-12T01:08:40.008Z",
+                                "publishedAt": "2023-12-12T01:08:40.004Z"
+                            }
+                        },
+                        {
+                            "id": 8,
+                            "attributes": {
+                                "Name": "Radiologist",
+                                "createdAt": "2023-12-12T01:10:04.465Z",
+                                "updatedAt": "2023-12-12T01:10:05.781Z",
+                                "publishedAt": "2023-12-12T01:10:05.779Z"
+                            }
+                        }
+                    ]
+                },
+                "appointments": {
+                    "data": []
+                },
+                "doctors": {
+                    "data": [
+                        {
+                            "id": 10,
+                            "attributes": {
+                                "Name": "Dr. Surya Prakash",
+                                "Address": "Panjagutta, Hyderabad",
+                                "Patients": "400+",
+                                "Year_of_Experience": "19",
+                                "StartTime": "09:00:00.000",
+                                "EndTime": "17:00:00.000",
+                                "About": "Dr. Surya Prakash is a reputed doctor in Hyderabad with over 19 years of experience.",
+                                "createdAt": "2023-12-12T02:00:25.636Z",
+                                "updatedAt": "2023-12-12T02:00:26.824Z",
+                                "publishedAt": "2023-12-12T02:00:26.819Z"
+                            }
+                        },
+                        {
+                            "id": 21,
+                            "attributes": {
+                                "Name": "Dr. Guru Prakash",
+                                "Address": "Panjagutta, Hyderabad ",
+                                "Patients": "450+",
+                                "Year_of_Experience": "20",
+                                "StartTime": "09:00:00.000",
+                                "EndTime": "17:00:00.000",
+                                "About": "Dr. Guru Prakash is one of the most esteemed doctor in Hyderabad.",
+                                "createdAt": "2023-12-12T02:20:16.131Z",
+                                "updatedAt": "2023-12-12T02:20:17.290Z",
+                                "publishedAt": "2023-12-12T02:20:17.284Z"
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": 9,
+            "attributes": {
+                "Name": "V.S. Super Speciality Dental Hospitals",
+                "Address": " Chaitanyapuri, Hyderabad",
+                "Email": "noemail@xyz.com",
+                "Website": "https://www.clinicspots.com/hospital/vs-super-speciality-dental-hospitals-4",
+                "Phone": null,
+                "Description": "V S Super Speciality Dental Hospitals in Hyderabad is one of the leading businesses in the Dental Surgeons. Also known for Hospitals, Dental Hospitals, Dentists, Multispeciality Hospitals, Cosmetic Surgeon Doctors, Dental Surgeons, Orthodontist Doctors, Dental X Ray Centres and much more. Find Address, Contact Number, Reviews & Ratings, Photos, Maps of V S Super Speciality Dental Hospitals, Hyderabad.",
+                "Premium": false,
+                "OpeningHours": "10:00:00.000",
+                "createdAt": "2023-12-11T21:47:21.769Z",
+                "updatedAt": "2023-12-11T21:47:22.615Z",
+                "publishedAt": "2023-12-11T21:47:22.610Z",
+                "views": null,
+                "image": {
+                    "data": {
+                        "id": 25,
+                        "attributes": {
+                            "name": "v-s-super-speciality-dental-hospitals-chaitanyapuri-hyderabad-dentists-pu16wb0qit.avif",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": null,
+                            "height": null,
+                            "formats": null,
+                            "hash": "v_s_super_speciality_dental_hospitals_chaitanyapuri_hyderabad_dentists_pu16wb0qit_4053ff3657",
+                            "ext": ".avif",
+                            "mime": "image/avif",
+                            "size": 18.92,
+                            "url": "https://res.cloudinary.com/dm5ey9xov/image/upload/v1702331176/v_s_super_speciality_dental_hospitals_chaitanyapuri_hyderabad_dentists_pu16wb0qit_4053ff3657.avif",
+                            "previewUrl": null,
+                            "provider": "cloudinary",
+                            "provider_metadata": {
+                                "public_id": "v_s_super_speciality_dental_hospitals_chaitanyapuri_hyderabad_dentists_pu16wb0qit_4053ff3657",
+                                "resource_type": "image"
+                            },
+                            "createdAt": "2023-12-11T21:46:17.564Z",
+                            "updatedAt": "2023-12-11T21:46:17.564Z"
+                        }
+                    }
+                },
+                "categories": {
+                    "data": [
+                        {
+                            "id": 1,
+                            "attributes": {
+                                "Name": "Dentist",
+                                "createdAt": "2023-12-11T20:36:04.237Z",
+                                "updatedAt": "2023-12-11T20:52:00.715Z",
+                                "publishedAt": "2023-12-11T20:36:05.527Z"
+                            }
+                        }
+                    ]
+                },
+                "appointments": {
+                    "data": []
+                },
+                "doctors": {
+                    "data": [
+                        {
+                            "id": 11,
+                            "attributes": {
+                                "Name": "Dr. A.venkat Ram Reddy",
+                                "Address": "Chaitanyapuri, Hyderabad",
+                                "Patients": "270+",
+                                "Year_of_Experience": "11",
+                                "StartTime": "10:00:00.000",
+                                "EndTime": "19:00:00.000",
+                                "About": "Dr. A.venkat Reddy is one of the most esteemed Dentist in Hyderabad.He holds an experience of 11 years in medical field. He has completed his BDS from Sree Sai Dental College Research Institute in 2010. He carries his medicinal practice at V.s Super Speciality Dental Hospitals in Nagole(Hyderabad), V.s Super Speciality Dental Hospitals in Nagole(Hyderabad), V.s Super Speciality Dental Hospitals in Vanasthalipuram(Hyderabad) and V.s Super Speciality Dental Hospitals in Kothapet(Hyderabad).",
+                                "createdAt": "2023-12-12T02:02:53.132Z",
+                                "updatedAt": "2023-12-12T02:02:54.485Z",
+                                "publishedAt": "2023-12-12T02:02:54.478Z"
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": 10,
+            "attributes": {
+                "Name": "Sai Siddhartha Super Speciality Hospital",
+                "Address": "Kompally, hyderabad",
+                "Email": "noemail@xyz.com",
+                "Website": "https://twitter.com/ssh_kompally",
+                "Phone": null,
+                "Description": "Established in the year 2023, Sai Siddhartha Super Speciality Hospital in Kompally, Rangareddy, Hyderabad is a top player in the category Hospitals in the Rangareddy, Hyderabad. This well-known establishment acts as a one-stop destination servicing customers both local and from other parts of Rangareddy, Hyderabad. Over the course of its journey, this business has established a firm foothold in it’s industry. The belief that customer satisfaction is as important as their products and services, have helped this establishment garner a vast base of customers, which continues to grow by the day. This business employs individuals that are dedicated towards their respective roles and put in a lot of effort to achieve the common vision and larger goals of the company. In the near future, this business aims to expand its line of products and services and cater to a larger client base. In Rangareddy, Hyderabad, this establishment occupies a prominent location in Kompally. It is an effortless task in commuting to this establishment as there are various modes of transport readily available. It is at Brundavan Colony, Behind Prajay Raichandini Mall, which makes it easy for first-time visitors in locating this establishment. It is known to provide top service in the following categories: Hospitals, Dermatologists, Gynaecologist & Obstetrician Doctors, ENT Hospitals, Orthopaedic Doctors, General Physician Doctors, ENT Doctors, Neurologists. ",
+                "Premium": false,
+                "OpeningHours": "08:00:00.000",
+                "createdAt": "2023-12-11T21:51:02.098Z",
+                "updatedAt": "2023-12-11T22:07:28.728Z",
+                "publishedAt": "2023-12-11T21:52:26.632Z",
+                "views": 1.2,
+                "image": {
+                    "data": {
+                        "id": 27,
+                        "attributes": {
+                            "name": "sai-siddhartha-hospital-shapur-nagar-hyderabad-hospitals-csm538jdne.avif",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": null,
+                            "height": null,
+                            "formats": null,
+                            "hash": "sai_siddhartha_hospital_shapur_nagar_hyderabad_hospitals_csm538jdne_67c624000d",
+                            "ext": ".avif",
+                            "mime": "image/avif",
+                            "size": 14.15,
+                            "url": "https://res.cloudinary.com/dm5ey9xov/image/upload/v1702331449/sai_siddhartha_hospital_shapur_nagar_hyderabad_hospitals_csm538jdne_67c624000d.avif",
+                            "previewUrl": null,
+                            "provider": "cloudinary",
+                            "provider_metadata": {
+                                "public_id": "sai_siddhartha_hospital_shapur_nagar_hyderabad_hospitals_csm538jdne_67c624000d",
+                                "resource_type": "image"
+                            },
+                            "createdAt": "2023-12-11T21:50:49.800Z",
+                            "updatedAt": "2023-12-11T21:50:49.800Z"
+                        }
+                    }
+                },
+                "categories": {
+                    "data": [
+                        {
+                            "id": 4,
+                            "attributes": {
+                                "Name": "Orthopaedic ",
+                                "createdAt": "2023-12-11T20:40:40.624Z",
+                                "updatedAt": "2023-12-11T20:51:39.394Z",
+                                "publishedAt": "2023-12-11T20:40:41.377Z"
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "attributes": {
+                                "Name": "Cardiologist",
+                                "createdAt": "2023-12-11T20:40:00.511Z",
+                                "updatedAt": "2023-12-11T20:52:09.053Z",
+                                "publishedAt": "2023-12-11T20:40:01.261Z"
+                            }
+                        }
+                    ]
+                },
+                "appointments": {
+                    "data": []
+                },
+                "doctors": {
+                    "data": []
+                }
+            }
+        },
+        {
+            "id": 11,
+            "attributes": {
+                "Name": "Pristyn Care",
+                "Address": "Hitech City, Hyderabad",
+                "Email": "help@pristyncare.com",
+                "Website": "https://www.pristyncare.com",
+                "Phone": null,
+                "Description": "Pristyn Care is a new-age healthcare company with a laser-sharp focus on simplifying the entire surgery journey of a patient and his/her attendant by offering care and assistance at each and every step. Pristyn Care ensures that the patient’s experience right from the discovery of the right doctor, to booking an appointment at the clinic, getting a detailed diagnosis done, booking tests at a diagnostic center, getting insurance paperwork done, commuting from home to the hospital & back on the day of the surgery, admission-discharge processes at the hospital, and follow-up consultation after the surgery – is hassle-free and care-filled.\n\nPristyn Care commits to enhancing access and ensuring high quality secondary-care surgeries through an innovative care model. Pristyn Care operates on an innovative full- stack Care delivery model  to ensure that high quality surgical care is offered to patients at an affordable cost. The company has partnerships with health insurance companies and financing providers. These partnerships help in easy and faster cashless claim approvals and EMIs facilities at 0% interest.\n\nPristyn Care surgical centers are currently functional across 7 metro cities – Mumbai, Pune, Delhi, Bangalore, Hyderabad, Chennai and Kolkata – and  35 tier 2 & 3 cities across the country. Operating in over 12 surgical categories such as General Surgery, Ophthalmology, ENT, Urology, Gynaecology, Pristyn Care, has successfully treated over 60,000 patients and completed 1 Million  patient interactions.",
+                "Premium": false,
+                "OpeningHours": "07:00:00.000",
+                "createdAt": "2023-12-11T21:55:15.842Z",
+                "updatedAt": "2023-12-11T22:07:19.127Z",
+                "publishedAt": "2023-12-11T21:55:17.278Z",
+                "views": 3.6,
+                "image": {
+                    "data": {
+                        "id": 28,
+                        "attributes": {
+                            "name": "download.jpg",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 308,
+                            "height": 163,
+                            "formats": {
+                                "thumbnail": {
+                                    "ext": ".jpg",
+                                    "url": "https://res.cloudinary.com/dm5ey9xov/image/upload/v1702331605/thumbnail_download_860f06e44e.jpg",
+                                    "hash": "thumbnail_download_860f06e44e",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_download.jpg",
+                                    "path": null,
+                                    "size": 7.46,
+                                    "width": 245,
+                                    "height": 130,
+                                    "provider_metadata": {
+                                        "public_id": "thumbnail_download_860f06e44e",
+                                        "resource_type": "image"
+                                    }
+                                }
+                            },
+                            "hash": "download_860f06e44e",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "size": 7.16,
+                            "url": "https://res.cloudinary.com/dm5ey9xov/image/upload/v1702331605/download_860f06e44e.jpg",
+                            "previewUrl": null,
+                            "provider": "cloudinary",
+                            "provider_metadata": {
+                                "public_id": "download_860f06e44e",
+                                "resource_type": "image"
+                            },
+                            "createdAt": "2023-12-11T21:53:26.154Z",
+                            "updatedAt": "2023-12-11T21:53:26.154Z"
+                        }
+                    }
+                },
+                "categories": {
+                    "data": [
+                        {
+                            "id": 5,
+                            "attributes": {
+                                "Name": "Paediatric",
+                                "createdAt": "2023-12-11T20:41:03.475Z",
+                                "updatedAt": "2023-12-11T20:51:25.191Z",
+                                "publishedAt": "2023-12-11T20:41:04.213Z"
+                            }
+                        },
+                        {
+                            "id": 8,
+                            "attributes": {
+                                "Name": "Radiologist",
+                                "createdAt": "2023-12-12T01:10:04.465Z",
+                                "updatedAt": "2023-12-12T01:10:05.781Z",
+                                "publishedAt": "2023-12-12T01:10:05.779Z"
+                            }
+                        }
+                    ]
+                },
+                "appointments": {
+                    "data": []
+                },
+                "doctors": {
+                    "data": []
+                }
+            }
+        }
+    ],
+    "meta": {
+        "pagination": {
+            "page": 1,
+            "pageSize": 25,
+            "pageCount": 1,
+            "total": 10
+        }
+    }
+}
+
+
+
+
+
+{
+    "data": [
+        {
+            "id": 47,
+            "attributes": {
+                "UserName": "Mohammed Furquan",
+                "Email": "mohammedfurquan2002@gmail.com",
+                "Date": "2023-12-13T11:37:21.212Z",
+                "Time": "9:00 AM",
+                "Note": "Qqqq",
+                "createdAt": "2023-12-12T11:37:26.559Z",
+                "updatedAt": "2023-12-12T11:37:26.559Z",
+                "publishedAt": "2023-12-12T11:37:26.555Z",
+                "hospitals": {
+                    "data": [
+                        {
+                            "id": 2,
+                            "attributes": {
+                                "Name": "Apollo Health City",
+                                "Address": "Jubilee Hills, Hyderabad",
+                                "Email": "info@apollohospitals.com",
+                                "Website": "https://www.apollohospitals.com",
+                                "Phone": null,
+                                "Description": "Established by Dr Prathap C Reddy in 1983, Apollo Healthcare has a robust presence across the healthcare ecosystem. From routine wellness & preventive health care to innovative life-saving treatments and diagnostic services, Apollo Hospitals has touched more than 200 million lives from over 120 countries",
+                                "Premium": true,
+                                "OpeningHours": "06:00:00.000",
+                                "createdAt": "2023-12-11T21:11:46.841Z",
+                                "updatedAt": "2023-12-12T01:30:58.648Z",
+                                "publishedAt": "2023-12-11T21:12:02.744Z",
+                                "views": 8.7
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": 48,
+            "attributes": {
+                "UserName": "Mohammed Furquan",
+                "Email": "mohammedfurquan2002@gmail.com",
+                "Date": "2023-12-13T11:43:04.004Z",
+                "Time": "9:00 AM",
+                "Note": "Re",
+                "createdAt": "2023-12-12T11:43:07.775Z",
+                "updatedAt": "2023-12-12T11:43:07.775Z",
+                "publishedAt": "2023-12-12T11:43:07.771Z",
+                "hospitals": {
+                    "data": [
+                        {
+                            "id": 2,
+                            "attributes": {
+                                "Name": "Apollo Health City",
+                                "Address": "Jubilee Hills, Hyderabad",
+                                "Email": "info@apollohospitals.com",
+                                "Website": "https://www.apollohospitals.com",
+                                "Phone": null,
+                                "Description": "Established by Dr Prathap C Reddy in 1983, Apollo Healthcare has a robust presence across the healthcare ecosystem. From routine wellness & preventive health care to innovative life-saving treatments and diagnostic services, Apollo Hospitals has touched more than 200 million lives from over 120 countries",
+                                "Premium": true,
+                                "OpeningHours": "06:00:00.000",
+                                "createdAt": "2023-12-11T21:11:46.841Z",
+                                "updatedAt": "2023-12-12T01:30:58.648Z",
+                                "publishedAt": "2023-12-11T21:12:02.744Z",
+                                "views": 8.7
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "meta": {
+        "pagination": {
+            "page": 1,
+            "pageSize": 25,
+            "pageCount": 1,
+            "total": 2
+        }
+    }
+}
+
+
+
+{
+    "data": [
+        {
+            "id": 47,
+            "attributes": {
+                "UserName": "Mohammed Furquan",
+                "Email": "mohammedfurquan2002@gmail.com",
+                "Date": "2023-12-13T11:37:21.212Z",
+                "Time": "9:00 AM",
+                "Note": "Qqqq",
+                "createdAt": "2023-12-12T11:37:26.559Z",
+                "updatedAt": "2023-12-12T11:37:26.559Z",
+                "publishedAt": "2023-12-12T11:37:26.555Z",
+                "hospitals": {
+                    "data": [
+                        {
+                            "id": 2,
+                            "attributes": {
+                                "Name": "Apollo Health City",
+                                "Address": "Jubilee Hills, Hyderabad",
+                                "Email": "info@apollohospitals.com",
+                                "Website": "https://www.apollohospitals.com",
+                                "Phone": null,
+                                "Description": "Established by Dr Prathap C Reddy in 1983, Apollo Healthcare has a robust presence across the healthcare ecosystem. From routine wellness & preventive health care to innovative life-saving treatments and diagnostic services, Apollo Hospitals has touched more than 200 million lives from over 120 countries",
+                                "Premium": true,
+                                "OpeningHours": "06:00:00.000",
+                                "createdAt": "2023-12-11T21:11:46.841Z",
+                                "updatedAt": "2023-12-12T01:30:58.648Z",
+                                "publishedAt": "2023-12-11T21:12:02.744Z",
+                                "views": 8.7
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": 48,
+            "attributes": {
+                "UserName": "Mohammed Furquan",
+                "Email": "mohammedfurquan2002@gmail.com",
+                "Date": "2023-12-13T11:43:04.004Z",
+                "Time": "9:00 AM",
+                "Note": "Re",
+                "createdAt": "2023-12-12T11:43:07.775Z",
+                "updatedAt": "2023-12-12T11:43:07.775Z",
+                "publishedAt": "2023-12-12T11:43:07.771Z",
+                "hospitals": {
+                    "data": [
+                        {
+                            "id": 2,
+                            "attributes": {
+                                "Name": "Apollo Health City",
+                                "Address": "Jubilee Hills, Hyderabad",
+                                "Email": "info@apollohospitals.com",
+                                "Website": "https://www.apollohospitals.com",
+                                "Phone": null,
+                                "Description": "Established by Dr Prathap C Reddy in 1983, Apollo Healthcare has a robust presence across the healthcare ecosystem. From routine wellness & preventive health care to innovative life-saving treatments and diagnostic services, Apollo Hospitals has touched more than 200 million lives from over 120 countries",
+                                "Premium": true,
+                                "OpeningHours": "06:00:00.000",
+                                "createdAt": "2023-12-11T21:11:46.841Z",
+                                "updatedAt": "2023-12-12T01:30:58.648Z",
+                                "publishedAt": "2023-12-11T21:12:02.744Z",
+                                "views": 8.7
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "meta": {
+        "pagination": {
+            "page": 1,
+            "pageSize": 25,
+            "pageCount": 1,
+            "total": 2
+        }
+    }
+}
+
+
+{
+    "data": [
+        {
+            "id": 47,
+            "attributes": {
+                "UserName": "Mohammed Furquan",
+                "Email": "mohammedfurquan2002@gmail.com",
+                "Date": "2023-12-13T11:37:21.212Z",
+                "Time": "9:00 AM",
+                "Note": "Qqqq",
+                "createdAt": "2023-12-12T11:37:26.559Z",
+                "updatedAt": "2023-12-12T11:37:26.559Z",
+                "publishedAt": "2023-12-12T11:37:26.555Z",
+                "hospitals": {
+                    "data": [
+                        {
+                            "id": 2,
+                            "attributes": {
+                                "Name": "Apollo Health City",
+                                "Address": "Jubilee Hills, Hyderabad",
+                                "Email": "info@apollohospitals.com",
+                                "Website": "https://www.apollohospitals.com",
+                                "Phone": null,
+                                "Description": "Established by Dr Prathap C Reddy in 1983, Apollo Healthcare has a robust presence across the healthcare ecosystem. From routine wellness & preventive health care to innovative life-saving treatments and diagnostic services, Apollo Hospitals has touched more than 200 million lives from over 120 countries",
+                                "Premium": true,
+                                "OpeningHours": "06:00:00.000",
+                                "createdAt": "2023-12-11T21:11:46.841Z",
+                                "updatedAt": "2023-12-12T13:08:14.241Z",
+                                "publishedAt": "2023-12-11T21:12:02.744Z",
+                                "views": 8.7,
+                                "delete": "deletemeeeee"
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": 48,
+            "attributes": {
+                "UserName": "Mohammed Furquan",
+                "Email": "mohammedfurquan2002@gmail.com",
+                "Date": "2023-12-13T11:43:04.004Z",
+                "Time": "9:00 AM",
+                "Note": "Re",
+                "createdAt": "2023-12-12T11:43:07.775Z",
+                "updatedAt": "2023-12-12T11:43:07.775Z",
+                "publishedAt": "2023-12-12T11:43:07.771Z",
+                "hospitals": {
+                    "data": [
+                        {
+                            "id": 2,
+                            "attributes": {
+                                "Name": "Apollo Health City",
+                                "Address": "Jubilee Hills, Hyderabad",
+                                "Email": "info@apollohospitals.com",
+                                "Website": "https://www.apollohospitals.com",
+                                "Phone": null,
+                                "Description": "Established by Dr Prathap C Reddy in 1983, Apollo Healthcare has a robust presence across the healthcare ecosystem. From routine wellness & preventive health care to innovative life-saving treatments and diagnostic services, Apollo Hospitals has touched more than 200 million lives from over 120 countries",
+                                "Premium": true,
+                                "OpeningHours": "06:00:00.000",
+                                "createdAt": "2023-12-11T21:11:46.841Z",
+                                "updatedAt": "2023-12-12T13:08:14.241Z",
+                                "publishedAt": "2023-12-11T21:12:02.744Z",
+                                "views": 8.7,
+                                "delete": "deletemeeeee"
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": 49,
+            "attributes": {
+                "UserName": "Mohammed Furquan",
+                "Email": "mohammedfurquan2002@gmail.com",
+                "Date": "2023-12-13T13:08:55.638Z",
+                "Time": "9:00 AM",
+                "Note": "Qqqq",
+                "createdAt": "2023-12-12T13:09:01.683Z",
+                "updatedAt": "2023-12-12T13:09:01.683Z",
+                "publishedAt": "2023-12-12T13:09:01.677Z",
+                "hospitals": {
+                    "data": [
+                        {
+                            "id": 2,
+                            "attributes": {
+                                "Name": "Apollo Health City",
+                                "Address": "Jubilee Hills, Hyderabad",
+                                "Email": "info@apollohospitals.com",
+                                "Website": "https://www.apollohospitals.com",
+                                "Phone": null,
+                                "Description": "Established by Dr Prathap C Reddy in 1983, Apollo Healthcare has a robust presence across the healthcare ecosystem. From routine wellness & preventive health care to innovative life-saving treatments and diagnostic services, Apollo Hospitals has touched more than 200 million lives from over 120 countries",
+                                "Premium": true,
+                                "OpeningHours": "06:00:00.000",
+                                "createdAt": "2023-12-11T21:11:46.841Z",
+                                "updatedAt": "2023-12-12T13:08:14.241Z",
+                                "publishedAt": "2023-12-11T21:12:02.744Z",
+                                "views": 8.7,
+                                "delete": "deletemeeeee"
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "meta": {
+        "pagination": {
+            "page": 1,
+            "pageSize": 25,
+            "pageCount": 1,
+            "total": 3
+        }
+    }
+}
+
+{
+    "data": [
+        {
+            "id": 50,
+            "attributes": {
+                "UserName": "Mohammed Furquan",
+                "Email": "mohammedfurquan2002@gmail.com",
+                "Date": "2023-12-13T13:08:55.638Z",
+                "Time": "9:00 AM",
+                "Note": "Qqqqqqq",
+                "createdAt": "2023-12-12T13:11:55.023Z",
+                "updatedAt": "2023-12-12T13:11:55.023Z",
+                "publishedAt": "2023-12-12T13:11:55.016Z",
+                "hospitals": {
+                    "data": [
+                        {
+                            "id": 2,
+                            "attributes": {
+                                "Name": "Apollo Health City",
+                                "Address": "Jubilee Hills, Hyderabad",
+                                "Email": "info@apollohospitals.com",
+                                "Website": "https://www.apollohospitals.com",
+                                "Phone": null,
+                                "Description": "Established by Dr Prathap C Reddy in 1983, Apollo Healthcare has a robust presence across the healthcare ecosystem. From routine wellness & preventive health care to innovative life-saving treatments and diagnostic services, Apollo Hospitals has touched more than 200 million lives from over 120 countries",
+                                "Premium": true,
+                                "OpeningHours": "06:00:00.000",
+                                "createdAt": "2023-12-11T21:11:46.841Z",
+                                "updatedAt": "2023-12-12T13:08:14.241Z",
+                                "publishedAt": "2023-12-11T21:12:02.744Z",
+                                "views": 8.7
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "meta": {
+        "pagination": {
+            "page": 1,
+            "pageSize": 25,
+            "pageCount": 1,
+            "total": 1
+        }
+    }
+}
+
+{
+    "data": [
+        {
+            "id": 50,
+            "attributes": {
+                "UserName": "Mohammed Furquan",
+                "Email": "mohammedfurquan2002@gmail.com",
+                "Date": "2023-12-13T13:08:55.638Z",
+                "Time": "9:00 AM",
+                "Note": "Qqqqqqq",
+                "createdAt": "2023-12-12T13:11:55.023Z",
+                "updatedAt": "2023-12-12T13:11:55.023Z",
+                "publishedAt": "2023-12-12T13:11:55.016Z",
+                "hospitals": {
+                    "data": [
+                        {
+                            "id": 2,
+                            "attributes": {
+                                "Name": "Apollo Health City",
+                                "Address": "Jubilee Hills, Hyderabad",
+                                "Email": "info@apollohospitals.com",
+                                "Website": "https://www.apollohospitals.com",
+                                "Phone": null,
+                                "Description": "Established by Dr Prathap C Reddy in 1983, Apollo Healthcare has a robust presence across the healthcare ecosystem. From routine wellness & preventive health care to innovative life-saving treatments and diagnostic services, Apollo Hospitals has touched more than 200 million lives from over 120 countries",
+                                "Premium": true,
+                                "OpeningHours": "06:00:00.000",
+                                "createdAt": "2023-12-11T21:11:46.841Z",
+                                "updatedAt": "2023-12-12T13:12:47.367Z",
+                                "publishedAt": "2023-12-11T21:12:02.744Z",
+                                "views": 8.7
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": 51,
+            "attributes": {
+                "UserName": "Mohammed Furquan",
+                "Email": "mohammedfurquan2002@gmail.com",
+                "Date": "2023-12-13T13:08:55.638Z",
+                "Time": "9:00 AM",
+                "Note": "Qqqqqqq",
+                "createdAt": "2023-12-12T13:12:57.192Z",
+                "updatedAt": "2023-12-12T13:12:57.192Z",
+                "publishedAt": "2023-12-12T13:12:57.189Z",
+                "hospitals": {
+                    "data": [
+                        {
+                            "id": 2,
+                            "attributes": {
+                                "Name": "Apollo Health City",
+                                "Address": "Jubilee Hills, Hyderabad",
+                                "Email": "info@apollohospitals.com",
+                                "Website": "https://www.apollohospitals.com",
+                                "Phone": null,
+                                "Description": "Established by Dr Prathap C Reddy in 1983, Apollo Healthcare has a robust presence across the healthcare ecosystem. From routine wellness & preventive health care to innovative life-saving treatments and diagnostic services, Apollo Hospitals has touched more than 200 million lives from over 120 countries",
+                                "Premium": true,
+                                "OpeningHours": "06:00:00.000",
+                                "createdAt": "2023-12-11T21:11:46.841Z",
+                                "updatedAt": "2023-12-12T13:12:47.367Z",
+                                "publishedAt": "2023-12-11T21:12:02.744Z",
+                                "views": 8.7
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "meta": {
+        "pagination": {
+            "page": 1,
+            "pageSize": 25,
+            "pageCount": 1,
+            "total": 2
+        }
+    }
+}
+
+{
+    "data": [
+        {
+            "id": 50,
+            "attributes": {
+                "UserName": "Mohammed Furquan",
+                "Email": "mohammedfurquan2002@gmail.com",
+                "Date": "2023-12-13T13:08:55.638Z",
+                "Time": "9:00 AM",
+                "Note": "Qqqqqqq",
+                "createdAt": "2023-12-12T13:11:55.023Z",
+                "updatedAt": "2023-12-12T13:11:55.023Z",
+                "publishedAt": "2023-12-12T13:11:55.016Z"
+            }
+        },
+        {
+            "id": 51,
+            "attributes": {
+                "UserName": "Mohammed Furquan",
+                "Email": "mohammedfurquan2002@gmail.com",
+                "Date": "2023-12-13T13:08:55.638Z",
+                "Time": "9:00 AM",
+                "Note": "Qqqqqqq",
+                "createdAt": "2023-12-12T13:12:57.192Z",
+                "updatedAt": "2023-12-12T13:12:57.192Z",
+                "publishedAt": "2023-12-12T13:12:57.189Z"
+            }
+        }
+    ],
+    "meta": {
+        "pagination": {
+            "page": 1,
+            "pageSize": 25,
+            "pageCount": 1,
+            "total": 2
+        }
+    }
+}
+
+
+{
+    "data": [
+        {
+            "id": 2,
+            "attributes": {
+                "Name": "Apollo Health City",
+                "Address": "Jubilee Hills, Hyderabad",
+                "Email": "info@apollohospitals.com",
+                "Website": "https://www.apollohospitals.com",
+                "Phone": null,
+                "Description": "Established by Dr Prathap C Reddy in 1983, Apollo Healthcare has a robust presence across the healthcare ecosystem. From routine wellness & preventive health care to innovative life-saving treatments and diagnostic services, Apollo Hospitals has touched more than 200 million lives from over 120 countries",
+                "Premium": true,
+                "OpeningHours": "06:00:00.000",
+                "createdAt": "2023-12-11T21:11:46.841Z",
+                "updatedAt": "2023-12-12T13:12:47.367Z",
+                "publishedAt": "2023-12-11T21:12:02.744Z",
+                "views": 8.7,
+                "image": {
+                    "data": {
+                        "id": 17,
+                        "attributes": {
+                            "name": "download.jpg",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 275,
+                            "height": 183,
+                            "formats": {
+                                "thumbnail": {
+                                    "ext": ".jpg",
+                                    "url": "https://res.cloudinary.com/dm5ey9xov/image/upload/v1702329543/thumbnail_download_404e4938b7.jpg",
+                                    "hash": "thumbnail_download_404e4938b7",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_download.jpg",
+                                    "path": null,
+                                    "size": 10.9,
+                                    "width": 234,
+                                    "height": 156,
+                                    "provider_metadata": {
+                                        "public_id": "thumbnail_download_404e4938b7",
+                                        "resource_type": "image"
+                                    }
+                                }
+                            },
+                            "hash": "download_404e4938b7",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "size": 10.85,
+                            "url": "https://res.cloudinary.com/dm5ey9xov/image/upload/v1702329543/download_404e4938b7.jpg",
+                            "previewUrl": null,
+                            "provider": "cloudinary",
+                            "provider_metadata": {
+                                "public_id": "download_404e4938b7",
+                                "resource_type": "image"
+                            },
+                            "createdAt": "2023-12-11T21:19:04.200Z",
+                            "updatedAt": "2023-12-11T21:19:04.200Z"
+                        }
+                    }
+                },
+                "categories": {
+                    "data": [
+                        {
+                            "id": 2,
+                            "attributes": {
+                                "Name": "Cardiologist",
+                                "createdAt": "2023-12-11T20:40:00.511Z",
+                                "updatedAt": "2023-12-11T20:52:09.053Z",
+                                "publishedAt": "2023-12-11T20:40:01.261Z"
+                            }
+                        },
+                        {
+                            "id": 3,
+                            "attributes": {
+                                "Name": "Neurologist",
+                                "createdAt": "2023-12-11T20:40:22.943Z",
+                                "updatedAt": "2023-12-11T20:51:51.481Z",
+                                "publishedAt": "2023-12-11T20:40:23.666Z"
+                            }
+                        },
+                        {
+                            "id": 1,
+                            "attributes": {
+                                "Name": "Dentist",
+                                "createdAt": "2023-12-11T20:36:04.237Z",
+                                "updatedAt": "2023-12-11T20:52:00.715Z",
+                                "publishedAt": "2023-12-11T20:36:05.527Z"
+                            }
+                        },
+                        {
+                            "id": 4,
+                            "attributes": {
+                                "Name": "Orthopaedic ",
+                                "createdAt": "2023-12-11T20:40:40.624Z",
+                                "updatedAt": "2023-12-11T20:51:39.394Z",
+                                "publishedAt": "2023-12-11T20:40:41.377Z"
+                            }
+                        },
+                        {
+                            "id": 5,
+                            "attributes": {
+                                "Name": "Paediatric",
+                                "createdAt": "2023-12-11T20:41:03.475Z",
+                                "updatedAt": "2023-12-11T20:51:25.191Z",
+                                "publishedAt": "2023-12-11T20:41:04.213Z"
+                            }
+                        },
+                        {
+                            "id": 6,
+                            "attributes": {
+                                "Name": "Urologist",
+                                "createdAt": "2023-12-12T01:07:50.795Z",
+                                "updatedAt": "2023-12-12T01:07:55.403Z",
+                                "publishedAt": "2023-12-12T01:07:55.398Z"
+                            }
+                        },
+                        {
+                            "id": 7,
+                            "attributes": {
+                                "Name": "Gynaecologist",
+                                "createdAt": "2023-12-12T01:08:39.199Z",
+                                "updatedAt": "2023-12-12T01:08:40.008Z",
+                                "publishedAt": "2023-12-12T01:08:40.004Z"
+                            }
+                        },
+                        {
+                            "id": 8,
+                            "attributes": {
+                                "Name": "Radiologist",
+                                "createdAt": "2023-12-12T01:10:04.465Z",
+                                "updatedAt": "2023-12-12T01:10:05.781Z",
+                                "publishedAt": "2023-12-12T01:10:05.779Z"
+                            }
+                        }
+                    ]
+                },
+                "appointments": {
+                    "data": [
+                        {
+                            "id": 50,
+                            "attributes": {
+                                "UserName": "Mohammed Furquan",
+                                "Email": "mohammedfurquan2002@gmail.com",
+                                "Date": "2023-12-13T13:08:55.638Z",
+                                "Time": "9:00 AM",
+                                "Note": "Qqqqqqq",
+                                "createdAt": "2023-12-12T13:11:55.023Z",
+                                "updatedAt": "2023-12-12T13:11:55.023Z",
+                                "publishedAt": "2023-12-12T13:11:55.016Z"
+                            }
+                        },
+                        {
+                            "id": 51,
+                            "attributes": {
+                                "UserName": "Mohammed Furquan",
+                                "Email": "mohammedfurquan2002@gmail.com",
+                                "Date": "2023-12-13T13:08:55.638Z",
+                                "Time": "9:00 AM",
+                                "Note": "Qqqqqqq",
+                                "createdAt": "2023-12-12T13:12:57.192Z",
+                                "updatedAt": "2023-12-12T13:12:57.192Z",
+                                "publishedAt": "2023-12-12T13:12:57.189Z"
+                            }
+                        },
+                        {
+                            "id": 52,
+                            "attributes": {
+                                "UserName": "Mohammed Furquan",
+                                "Email": "mohammedfurquan2002@gmail.com",
+                                "Date": "2023-12-18T14:06:27.491Z",
+                                "Time": "8:00 AM",
+                                "Note": "Evevevev",
+                                "createdAt": "2023-12-12T14:06:33.628Z",
+                                "updatedAt": "2023-12-12T14:06:33.628Z",
+                                "publishedAt": "2023-12-12T14:06:33.624Z"
+                            }
+                        }
+                    ]
+                },
+                "doctors": {
+                    "data": [
+                        {
+                            "id": 1,
+                            "attributes": {
+                                "Name": "Dr. Sanjay Maitra",
+                                "Address": "Jublie Hills, Hyderabad",
+                                "Patients": "500+",
+                                "Year_of_Experience": "26",
+                                "StartTime": "08:00:00.000",
+                                "EndTime": "21:00:00.000",
+                                "About": "Dr. Sanjay Maitra is a reputed Nephrologist/Renal Specialist and Critical Care Medicine in Hyderabad with over 26 years of experience. He has pursued his MBBS from University of Calcutta in 1986, MD - Internal Medicine from Maharshi Dayanand University, Rohtak in 1991, DM - Nephrology from POSTGRADUATE INSTITUTE OF MEDICAL EDUCATION AND RESEARCH and CHANDIGARH in 1995. He currently practices at Goodwill Hospital - Kidney And Surgical Centre in Banjara Hills(Hyderabad), Apollo Health City in Jubilee Hills(Hyderabad) and Apollo Hospitals in Jubilee Hills(Hyderabad). He holds membership of Medical Council of India (MCI), Indian Society Of Nephrology, Indian Society of Peritoneal Dialysis and ASSOCIATE MEMBER OF AMERICAN SOCIETY OF NEPHROLOGY.",
+                                "createdAt": "2023-12-12T01:15:07.798Z",
+                                "updatedAt": "2023-12-12T01:28:28.469Z",
+                                "publishedAt": "2023-12-12T01:15:10.287Z"
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "attributes": {
+                                "Name": "Dr. Arun Shah",
+                                "Address": "Film Nagar, Hyderabad",
+                                "Patients": "850+",
+                                "Year_of_Experience": "31",
+                                "StartTime": "09:00:00.000",
+                                "EndTime": "18:00:00.000",
+                                "About": "Dr. Arun Shah is a reputed doctor in Hyderabad with over 31 years of experience.\n\nExperiences\n\nSenior consultant urologist\nApollo Hospitals\n1991 - Present\n\nConsultant In Urology\nGrasim Hosptial, Nagada Mp\n1985 - 1989",
+                                "createdAt": "2023-12-12T01:37:34.706Z",
+                                "updatedAt": "2023-12-12T01:37:35.941Z",
+                                "publishedAt": "2023-12-12T01:37:35.937Z"
+                            }
+                        },
+                        {
+                            "id": 3,
+                            "attributes": {
+                                "Name": "Dr. Sharat Kumar P",
+                                "Address": "Jublie Hills, Hyderabad",
+                                "Patients": "900+",
+                                "Year_of_Experience": "30",
+                                "StartTime": "11:00:00.000",
+                                "EndTime": "14:00:00.000",
+                                "About": "Dr. Sharat Kumar P is a highly skilled doctor in Hyderabad.",
+                                "createdAt": "2023-12-12T01:39:38.878Z",
+                                "updatedAt": "2023-12-12T01:39:39.688Z",
+                                "publishedAt": "2023-12-12T01:39:39.683Z"
+                            }
+                        }
+                    ]
+                },
+                "deleteimg": {
+                    "data": {
+                        "id": 55,
+                        "attributes": {
+                            "name": "qMs9gVaiFSJyqqAyTveSVPrs5aQbu5SdlN7wqDUq.webp",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 150,
+                            "height": 123,
+                            "formats": null,
+                            "hash": "q_Ms9g_Vai_FS_Jyqq_Ay_Tve_SV_Prs5a_Qbu5_Sdl_N7wq_D_Uq_ab279a8563",
+                            "ext": ".webp",
+                            "mime": "image/webp",
+                            "size": 1.47,
+                            "url": "https://res.cloudinary.com/dm5ey9xov/image/upload/v1702347631/q_Ms9g_Vai_FS_Jyqq_Ay_Tve_SV_Prs5a_Qbu5_Sdl_N7wq_D_Uq_ab279a8563.webp",
+                            "previewUrl": null,
+                            "provider": "cloudinary",
+                            "provider_metadata": {
+                                "public_id": "q_Ms9g_Vai_FS_Jyqq_Ay_Tve_SV_Prs5a_Qbu5_Sdl_N7wq_D_Uq_ab279a8563",
+                                "resource_type": "image"
+                            },
+                            "createdAt": "2023-12-12T02:20:32.411Z",
+                            "updatedAt": "2023-12-12T02:20:32.411Z"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 3,
+            "attributes": {
+                "Name": "KIMS Hospitals",
+                "Address": "Gachibowli, Hyderabad",
+                "Email": "assistance@kimshospitals.com",
+                "Website": "https://www.kimshospitals.com/gachibowli",
+                "Phone": null,
+                "Description": "Our Hospitals at Gachibowli, commenced in 2018 is strategically located with 250 operational beds and offers the most advanced therapeutic, invasive and non-invasive procedures in all major specialities and emergency care 24x7 by experienced and skilled medical & surgical faculty. \n\nOur Hospitals, Gachibowli takes pride in its hospitality and its commitment to deliver the best services from the heart. This tertiary care center caters to health care needs of people residing in Gachibowli, Kondapur, Madhapur, Raidurg, Jubilee Hills, Mehdipatnam and in neighbouring areas of the Ranga Reddy district. \n\nIn the last calendar year we have treated about 65000 Out-patients and about 7500 In-patients majorly contributed by  Orthopaedics, Neurosciences, Gastroenterology, Cardiology, Nephrology and Internal Medicine.",
+                "Premium": true,
+                "OpeningHours": "07:00:00.000",
+                "createdAt": "2023-12-11T21:28:08.124Z",
+                "updatedAt": "2023-12-11T22:06:52.528Z",
+                "publishedAt": "2023-12-11T21:28:09.317Z",
+                "views": 6.9,
+                "image": {
+                    "data": {
+                        "id": 18,
+                        "attributes": {
+                            "name": "dr-naveenchandra-acharya-kims-hospital-kondapur-hyderabad-urologist-doctors-k9h38a9m5g.avif",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": null,
+                            "height": null,
+                            "formats": null,
+                            "hash": "dr_naveenchandra_acharya_kims_hospital_kondapur_hyderabad_urologist_doctors_k9h38a9m5g_db9a69cdf3",
+                            "ext": ".avif",
+                            "mime": "image/avif",
+                            "size": 9.65,
+                            "url": "https://res.cloudinary.com/dm5ey9xov/image/upload/v1702329961/dr_naveenchandra_acharya_kims_hospital_kondapur_hyderabad_urologist_doctors_k9h38a9m5g_db9a69cdf3.avif",
+                            "previewUrl": null,
+                            "provider": "cloudinary",
+                            "provider_metadata": {
+                                "public_id": "dr_naveenchandra_acharya_kims_hospital_kondapur_hyderabad_urologist_doctors_k9h38a9m5g_db9a69cdf3",
+                                "resource_type": "image"
+                            },
+                            "createdAt": "2023-12-11T21:26:01.766Z",
+                            "updatedAt": "2023-12-11T21:26:01.766Z"
+                        }
+                    }
+                },
+                "categories": {
+                    "data": [
+                        {
+                            "id": 2,
+                            "attributes": {
+                                "Name": "Cardiologist",
+                                "createdAt": "2023-12-11T20:40:00.511Z",
+                                "updatedAt": "2023-12-11T20:52:09.053Z",
+                                "publishedAt": "2023-12-11T20:40:01.261Z"
+                            }
+                        },
+                        {
+                            "id": 3,
+                            "attributes": {
+                                "Name": "Neurologist",
+                                "createdAt": "2023-12-11T20:40:22.943Z",
+                                "updatedAt": "2023-12-11T20:51:51.481Z",
+                                "publishedAt": "2023-12-11T20:40:23.666Z"
+                            }
+                        },
+                        {
+                            "id": 7,
+                            "attributes": {
+                                "Name": "Gynaecologist",
+                                "createdAt": "2023-12-12T01:08:39.199Z",
+                                "updatedAt": "2023-12-12T01:08:40.008Z",
+                                "publishedAt": "2023-12-12T01:08:40.004Z"
+                            }
+                        }
+                    ]
+                },
+                "appointments": {
+                    "data": []
+                },
+                "doctors": {
+                    "data": [
+                        {
+                            "id": 4,
+                            "attributes": {
+                                "Name": "Dr. Jyotsna Myneni",
+                                "Address": "Gachibowli, Hyderabad",
+                                "Patients": "350+",
+                                "Year_of_Experience": "13",
+                                "StartTime": "10:00:00.000",
+                                "EndTime": "16:00:00.000",
+                                "About": "Dr. Jyotsna Myneni is a reputed doctor in Hyderabad with over 13 years of experience.",
+                                "createdAt": "2023-12-12T01:42:00.311Z",
+                                "updatedAt": "2023-12-12T01:42:01.158Z",
+                                "publishedAt": "2023-12-12T01:42:01.151Z"
+                            }
+                        },
+                        {
+                            "id": 5,
+                            "attributes": {
+                                "Name": "Dr. Amber S.papalkar",
+                                "Address": "Gachibowli, Hyderabad",
+                                "Patients": "400+",
+                                "Year_of_Experience": "16",
+                                "StartTime": "10:00:00.000",
+                                "EndTime": "16:00:00.000",
+                                "About": "Dr. Amber S.papalkar is a reputed doctor in Hyderabad with over 16 years of experience.",
+                                "createdAt": "2023-12-12T01:43:40.822Z",
+                                "updatedAt": "2023-12-12T01:43:41.711Z",
+                                "publishedAt": "2023-12-12T01:43:41.705Z"
+                            }
+                        },
+                        {
+                            "id": 6,
+                            "attributes": {
+                                "Name": "Dr. Srikanth V S",
+                                "Address": "Gachibowli, Hyderabad",
+                                "Patients": "360+",
+                                "Year_of_Experience": "10",
+                                "StartTime": "10:00:00.000",
+                                "EndTime": "16:00:00.000",
+                                "About": "Dr. Srikanth V S is a renowned doctor in Hyderabad.",
+                                "createdAt": "2023-12-12T01:45:30.981Z",
+                                "updatedAt": "2023-12-12T01:48:53.371Z",
+                                "publishedAt": "2023-12-12T01:45:34.288Z"
+                            }
+                        },
+                        {
+                            "id": 12,
+                            "attributes": {
+                                "Name": "Dr. Suresh Cheekatla",
+                                "Address": "Gachibowli, Hyderabad",
+                                "Patients": "380+",
+                                "Year_of_Experience": "14",
+                                "StartTime": "10:00:00.000",
+                                "EndTime": "16:00:00.000",
+                                "About": "Dr. Suresh Cheekatla is one of the most esteemed doctor in Hyderabad.",
+                                "createdAt": "2023-12-12T02:04:30.857Z",
+                                "updatedAt": "2023-12-12T02:04:31.786Z",
+                                "publishedAt": "2023-12-12T02:04:31.780Z"
+                            }
+                        }
+                    ]
+                },
+                "deleteimg": {
+                    "data": null
+                }
+            }
+        },
+        {
+            "id": 4,
+            "attributes": {
+                "Name": "Aster Prime Hospital",
+                "Address": "Ameerpet, Hyderabad",
+                "Email": "crm.prime@asterhospital.com",
+                "Website": "https://www.asterhospitals.in/hospitals/aster-prime-hyderabad",
+                "Phone": null,
+                "Description": "Aster Prime Hospitals offer quaternary medical care with best-in-class technology and facilities on par with global standards to ensure world-class healthcare to all the patients. As the leading healthcare provider, the hospital provides patients with the latest technological innovations for diagnosis and treatment of the most acute clinical conditions, highly skilled Medical and Nursing Expertise, round the clock personalized care promoting faster recovery of the patient. Aster Prime Hospital is a private, full-fledged 204-bed multi-speciality hospital situated in the strategic location of Ameerpet at Hyderabad. As one of the pioneer corporate healthcare facilities in the state of Telangana, Aster Prime Hospitals has always been at the forefront offering healthcare services of international standards right here at Hyderabad within the reach of its community.",
+                "Premium": false,
+                "OpeningHours": "07:45:00.000",
+                "createdAt": "2023-12-11T21:31:57.254Z",
+                "updatedAt": "2023-12-11T22:06:32.153Z",
+                "publishedAt": "2023-12-11T21:31:58.612Z",
+                "views": 2.4,
+                "image": {
+                    "data": {
+                        "id": 19,
+                        "attributes": {
+                            "name": "download.jpg",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 293,
+                            "height": 172,
+                            "formats": {
+                                "thumbnail": {
+                                    "ext": ".jpg",
+                                    "url": "https://res.cloudinary.com/dm5ey9xov/image/upload/v1702330246/thumbnail_download_35c4f369a3.jpg",
+                                    "hash": "thumbnail_download_35c4f369a3",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_download.jpg",
+                                    "path": null,
+                                    "size": 9.14,
+                                    "width": 245,
+                                    "height": 144,
+                                    "provider_metadata": {
+                                        "public_id": "thumbnail_download_35c4f369a3",
+                                        "resource_type": "image"
+                                    }
+                                }
+                            },
+                            "hash": "download_35c4f369a3",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "size": 8.43,
+                            "url": "https://res.cloudinary.com/dm5ey9xov/image/upload/v1702330246/download_35c4f369a3.jpg",
+                            "previewUrl": null,
+                            "provider": "cloudinary",
+                            "provider_metadata": {
+                                "public_id": "download_35c4f369a3",
+                                "resource_type": "image"
+                            },
+                            "createdAt": "2023-12-11T21:30:47.210Z",
+                            "updatedAt": "2023-12-11T21:30:47.210Z"
+                        }
+                    }
+                },
+                "categories": {
+                    "data": [
+                        {
+                            "id": 5,
+                            "attributes": {
+                                "Name": "Paediatric",
+                                "createdAt": "2023-12-11T20:41:03.475Z",
+                                "updatedAt": "2023-12-11T20:51:25.191Z",
+                                "publishedAt": "2023-12-11T20:41:04.213Z"
+                            }
+                        },
+                        {
+                            "id": 1,
+                            "attributes": {
+                                "Name": "Dentist",
+                                "createdAt": "2023-12-11T20:36:04.237Z",
+                                "updatedAt": "2023-12-11T20:52:00.715Z",
+                                "publishedAt": "2023-12-11T20:36:05.527Z"
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "attributes": {
+                                "Name": "Cardiologist",
+                                "createdAt": "2023-12-11T20:40:00.511Z",
+                                "updatedAt": "2023-12-11T20:52:09.053Z",
+                                "publishedAt": "2023-12-11T20:40:01.261Z"
+                            }
+                        }
+                    ]
+                },
+                "appointments": {
+                    "data": []
+                },
+                "doctors": {
+                    "data": [
+                        {
+                            "id": 7,
+                            "attributes": {
+                                "Name": "Dr. A.k. Purohit",
+                                "Address": "Ameerpet, Hyderabad",
+                                "Patients": "600+",
+                                "Year_of_Experience": "39",
+                                "StartTime": "13:00:00.000",
+                                "EndTime": "16:00:00.000",
+                                "About": "MBBS | MS - General Surgery | MCh - Neuro Surgery\nDr. A.k. Purohit is a renowned doctor in Hyderabad.",
+                                "createdAt": "2023-12-12T01:54:38.597Z",
+                                "updatedAt": "2023-12-12T01:54:39.910Z",
+                                "publishedAt": "2023-12-12T01:54:39.906Z"
+                            }
+                        },
+                        {
+                            "id": 13,
+                            "attributes": {
+                                "Name": "Dr. Raghu C",
+                                "Address": "Ameerpet, Hyderabad",
+                                "Patients": "600+",
+                                "Year_of_Experience": "25",
+                                "StartTime": "11:00:00.000",
+                                "EndTime": "13:00:00.000",
+                                "About": "Dr. Raghu C is a renowned doctor in Hyderabad.",
+                                "createdAt": "2023-12-12T02:05:55.610Z",
+                                "updatedAt": "2023-12-12T02:05:56.678Z",
+                                "publishedAt": "2023-12-12T02:05:56.671Z"
+                            }
+                        },
+                        {
+                            "id": 16,
+                            "attributes": {
+                                "Name": "Dr. Sushmitha",
+                                "Address": "Ameerpet, Hyderabad",
+                                "Patients": "350+",
+                                "Year_of_Experience": "13",
+                                "StartTime": "10:00:00.000",
+                                "EndTime": "14:00:00.000",
+                                "About": "Dr. Sushmitha is one of the most esteemed doctor in Hyderabad.",
+                                "createdAt": "2023-12-12T02:12:31.034Z",
+                                "updatedAt": "2023-12-12T02:12:32.300Z",
+                                "publishedAt": "2023-12-12T02:12:32.296Z"
+                            }
+                        },
+                        {
+                            "id": 19,
+                            "attributes": {
+                                "Name": "Dr. B.s.v. Raju ",
+                                "Address": "Ameerpet, Hyderabad",
+                                "Patients": "500+",
+                                "Year_of_Experience": "31",
+                                "StartTime": "11:00:00.000",
+                                "EndTime": "13:00:00.000",
+                                "About": "Dr. B.s.v. Raju is a reputed doctor in Hyderabad with over 31 years of experience.",
+                                "createdAt": "2023-12-12T02:17:01.495Z",
+                                "updatedAt": "2023-12-12T02:17:02.791Z",
+                                "publishedAt": "2023-12-12T02:17:02.780Z"
+                            }
+                        }
+                    ]
+                },
+                "deleteimg": {
+                    "data": null
+                }
+            }
+        },
+        {
+            "id": 5,
+            "attributes": {
+                "Name": "Medicover Hospitals",
+                "Address": "Hitech City, Hyderabad",
+                "Email": "info@medicoverhospitals.in",
+                "Website": "www.medicoverhospitals.in",
+                "Phone": null,
+                "Description": "Medicover is a globally recognised healthcare brand with operations in 12 countries: Germany, Sweden, Poland, Turkey, Belarus, Bulgaria, Georgia, Hungary, Romania, Serbia, Moldova, Ukraine, and India.\n\nMedicover is a leading Multispecialty Hospital chain with a significant presence in India. We provide a broad spectrum of health care services and have an extensive network of clinics, hospitals, specialty care facilities, Fertility Centers, and diagnostic labs.\n\nMedicover Hospitals is spread across the three states of Telangana, Andhra Pradesh, and Maharashtra treating millions of patients every year with a focus on augmenting healthcare standards in India. We have renowned medical teams who work with the greatest technologies and international evidence-based protocols which offer the most comprehensive treatment across all specialties of medicines.",
+                "Premium": true,
+                "OpeningHours": "06:00:00.000",
+                "createdAt": "2023-12-11T21:35:12.634Z",
+                "updatedAt": "2023-12-11T22:07:03.683Z",
+                "publishedAt": "2023-12-11T21:35:13.708Z",
+                "views": 7.1,
+                "image": {
+                    "data": {
+                        "id": 20,
+                        "attributes": {
+                            "name": "download.jpg",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 303,
+                            "height": 167,
+                            "formats": {
+                                "thumbnail": {
+                                    "ext": ".jpg",
+                                    "url": "https://res.cloudinary.com/dm5ey9xov/image/upload/v1702330448/thumbnail_download_61d894723f.jpg",
+                                    "hash": "thumbnail_download_61d894723f",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_download.jpg",
+                                    "path": null,
+                                    "size": 11.67,
+                                    "width": 245,
+                                    "height": 135,
+                                    "provider_metadata": {
+                                        "public_id": "thumbnail_download_61d894723f",
+                                        "resource_type": "image"
+                                    }
+                                }
+                            },
+                            "hash": "download_61d894723f",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "size": 12.86,
+                            "url": "https://res.cloudinary.com/dm5ey9xov/image/upload/v1702330448/download_61d894723f.jpg",
+                            "previewUrl": null,
+                            "provider": "cloudinary",
+                            "provider_metadata": {
+                                "public_id": "download_61d894723f",
+                                "resource_type": "image"
+                            },
+                            "createdAt": "2023-12-11T21:34:09.383Z",
+                            "updatedAt": "2023-12-11T21:34:09.383Z"
+                        }
+                    }
+                },
+                "categories": {
+                    "data": [
+                        {
+                            "id": 3,
+                            "attributes": {
+                                "Name": "Neurologist",
+                                "createdAt": "2023-12-11T20:40:22.943Z",
+                                "updatedAt": "2023-12-11T20:51:51.481Z",
+                                "publishedAt": "2023-12-11T20:40:23.666Z"
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "attributes": {
+                                "Name": "Cardiologist",
+                                "createdAt": "2023-12-11T20:40:00.511Z",
+                                "updatedAt": "2023-12-11T20:52:09.053Z",
+                                "publishedAt": "2023-12-11T20:40:01.261Z"
+                            }
+                        },
+                        {
+                            "id": 8,
+                            "attributes": {
+                                "Name": "Radiologist",
+                                "createdAt": "2023-12-12T01:10:04.465Z",
+                                "updatedAt": "2023-12-12T01:10:05.781Z",
+                                "publishedAt": "2023-12-12T01:10:05.779Z"
+                            }
+                        }
+                    ]
+                },
+                "appointments": {
+                    "data": []
+                },
+                "doctors": {
+                    "data": [
+                        {
+                            "id": 8,
+                            "attributes": {
+                                "Name": "Dr. Prabha Agarwal",
+                                "Address": "Hitech City, Hyderabad",
+                                "Patients": "260+",
+                                "Year_of_Experience": "21",
+                                "StartTime": "10:00:00.000",
+                                "EndTime": "14:00:00.000",
+                                "About": "Dr. Prabha Agarwal is a reputed doctor in Hyderabad with over 21 years of experience.",
+                                "createdAt": "2023-12-12T01:56:26.837Z",
+                                "updatedAt": "2023-12-12T01:56:27.961Z",
+                                "publishedAt": "2023-12-12T01:56:27.956Z"
+                            }
+                        },
+                        {
+                            "id": 14,
+                            "attributes": {
+                                "Name": "Dr. B. Radhika",
+                                "Address": "Hitech City, Hyderabad",
+                                "Patients": "550+",
+                                "Year_of_Experience": "19",
+                                "StartTime": "10:00:00.000",
+                                "EndTime": "14:00:00.000",
+                                "About": "Dr. B. Radhika is a reputed doctor in Hyderabad with over 19 years of experience.",
+                                "createdAt": "2023-12-12T02:07:21.310Z",
+                                "updatedAt": "2023-12-12T02:07:22.635Z",
+                                "publishedAt": "2023-12-12T02:07:22.630Z"
+                            }
+                        },
+                        {
+                            "id": 17,
+                            "attributes": {
+                                "Name": "Dr. R. Suneel",
+                                "Address": "Hitech City, Hyderabad",
+                                "Patients": "400+",
+                                "Year_of_Experience": "12",
+                                "StartTime": "11:00:00.000",
+                                "EndTime": "14:00:00.000",
+                                "About": "Dr. R. Suneel is one of the most esteemed doctor in Hyderabad.",
+                                "createdAt": "2023-12-12T02:13:33.465Z",
+                                "updatedAt": "2023-12-12T02:13:34.961Z",
+                                "publishedAt": "2023-12-12T02:13:34.956Z"
+                            }
+                        },
+                        {
+                            "id": 22,
+                            "attributes": {
+                                "Name": "Dr. Rajesh P",
+                                "Address": "Hitech City, Hyderabad",
+                                "Patients": "550+",
+                                "Year_of_Experience": "15",
+                                "StartTime": "11:00:00.000",
+                                "EndTime": "15:00:00.000",
+                                "About": "Dr. Rajesh P is a renowned doctor in Hyderabad.",
+                                "createdAt": "2023-12-12T02:21:20.320Z",
+                                "updatedAt": "2023-12-12T02:21:21.434Z",
+                                "publishedAt": "2023-12-12T02:21:21.429Z"
+                            }
+                        }
+                    ]
+                },
+                "deleteimg": {
+                    "data": null
+                }
+            }
+        },
+        {
+            "id": 6,
+            "attributes": {
+                "Name": "Aware Gleneagles Global Hospitals",
+                "Address": "Lb Nagar, Hyderabad",
+                "Email": "contact@emailid.com",
+                "Website": "https://awaregleneaglesglobalhospitallbnagar.com/",
+                "Phone": null,
+                "Description": "Aware Gleneagles Global Hospital at LB Nagar, Hyderabad is a community tertiary care hospital with established clinical work in all major medical specialties. Key specialties include Emergency Care, Critical Care, Cardiac Sciences, Neurosciences, Orthopaedics, Gastroenterology and Renal Sciences. The NABH, NABB and NABL accredited hospital operates 150 beds.\n\nA modern CathLab, 6 operation theatres offer cutting edge emergency and critical care management following internationally approved clinical protocols. Clinical excellence has earned the hospital tie-ups with all major cashless health insurance players.\n\nGleneagles Global Hospital (A unit of Ravindranath GE Medical Associates Private Limited) is a part of IHH Healthcare, one of the world’s largest healthcare providers. With its full spectrum of integrated services, dedicated people, reach and scale, and commitment to quality and safety, IHH aspires to be the world’s most trusted healthcare services network, united by a single purpose: to touch lives and transform care. More information on Aware Gleneagles Global Hospital can be found at hospital website.",
+                "Premium": false,
+                "OpeningHours": "08:00:00.000",
+                "createdAt": "2023-12-11T21:37:29.943Z",
+                "updatedAt": "2023-12-11T22:06:40.113Z",
+                "publishedAt": "2023-12-11T21:37:31.269Z",
+                "views": 1.7,
+                "image": {
+                    "data": {
+                        "id": 21,
+                        "attributes": {
+                            "name": "Aware_Gleneagles_Global_Hospital_LB-Nagar-Hyderabad-319-2.jpg",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 1706,
+                            "height": 960,
+                            "formats": {
+                                "thumbnail": {
+                                    "ext": ".jpg",
+                                    "url": "https://res.cloudinary.com/dm5ey9xov/image/upload/v1702330663/thumbnail_Aware_Gleneagles_Global_Hospital_LB_Nagar_Hyderabad_319_2_8bcc9da873.jpg",
+                                    "hash": "thumbnail_Aware_Gleneagles_Global_Hospital_LB_Nagar_Hyderabad_319_2_8bcc9da873",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_Aware_Gleneagles_Global_Hospital_LB-Nagar-Hyderabad-319-2.jpg",
+                                    "path": null,
+                                    "size": 10.4,
+                                    "width": 245,
+                                    "height": 138,
+                                    "provider_metadata": {
+                                        "public_id": "thumbnail_Aware_Gleneagles_Global_Hospital_LB_Nagar_Hyderabad_319_2_8bcc9da873",
+                                        "resource_type": "image"
+                                    }
+                                }
+                            },
+                            "hash": "Aware_Gleneagles_Global_Hospital_LB_Nagar_Hyderabad_319_2_8bcc9da873",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "size": 309.91,
+                            "url": "https://res.cloudinary.com/dm5ey9xov/image/upload/v1702330664/Aware_Gleneagles_Global_Hospital_LB_Nagar_Hyderabad_319_2_8bcc9da873.jpg",
+                            "previewUrl": null,
+                            "provider": "cloudinary",
+                            "provider_metadata": {
+                                "public_id": "Aware_Gleneagles_Global_Hospital_LB_Nagar_Hyderabad_319_2_8bcc9da873",
+                                "resource_type": "image"
+                            },
+                            "createdAt": "2023-12-11T21:37:44.969Z",
+                            "updatedAt": "2023-12-11T21:37:44.969Z"
+                        }
+                    }
+                },
+                "categories": {
+                    "data": [
+                        {
+                            "id": 2,
+                            "attributes": {
+                                "Name": "Cardiologist",
+                                "createdAt": "2023-12-11T20:40:00.511Z",
+                                "updatedAt": "2023-12-11T20:52:09.053Z",
+                                "publishedAt": "2023-12-11T20:40:01.261Z"
+                            }
+                        },
+                        {
+                            "id": 4,
+                            "attributes": {
+                                "Name": "Orthopaedic ",
+                                "createdAt": "2023-12-11T20:40:40.624Z",
+                                "updatedAt": "2023-12-11T20:51:39.394Z",
+                                "publishedAt": "2023-12-11T20:40:41.377Z"
+                            }
+                        }
+                    ]
+                },
+                "appointments": {
+                    "data": []
+                },
+                "doctors": {
+                    "data": []
+                },
+                "deleteimg": {
+                    "data": null
+                }
+            }
+        },
+        {
+            "id": 7,
+            "attributes": {
+                "Name": "Virinchi Hospitals",
+                "Address": "Banjara Hills, Hyderabad",
+                "Email": "contact_us@virinchihospitals.com",
+                "Website": "https://virinchihospitals.com/",
+                "Phone": null,
+                "Description": "- 3 facilities located in Hyderabad\n- Virinchi Hospital is the flagship 500-bed high-end facility at Banjara Hills spread across 350,000 sq.ft., focused on critical care and equipped with 11 OTs and 140 ICU beds\n- Virinchi also operates 2 economy brand hospitals under ‘Bristlecone’, a 140-bed hospital at Hayathnagar and a 60-bed hospital at Barkatpura in Hyderabad.",
+                "Premium": true,
+                "OpeningHours": "05:00:00.000",
+                "createdAt": "2023-12-11T21:40:20.347Z",
+                "updatedAt": "2023-12-11T22:07:40.364Z",
+                "publishedAt": "2023-12-11T21:40:21.523Z",
+                "views": 8.9,
+                "image": {
+                    "data": {
+                        "id": 23,
+                        "attributes": {
+                            "name": "1692350350virinchi-hospital.webp",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 680,
+                            "height": 510,
+                            "formats": {
+                                "thumbnail": {
+                                    "ext": ".webp",
+                                    "url": "https://res.cloudinary.com/dm5ey9xov/image/upload/v1702330890/thumbnail_1692350350virinchi_hospital_a4eab406c8.webp",
+                                    "hash": "thumbnail_1692350350virinchi_hospital_a4eab406c8",
+                                    "mime": "image/webp",
+                                    "name": "thumbnail_1692350350virinchi-hospital.webp",
+                                    "path": null,
+                                    "size": 4.67,
+                                    "width": 208,
+                                    "height": 156,
+                                    "provider_metadata": {
+                                        "public_id": "thumbnail_1692350350virinchi_hospital_a4eab406c8",
+                                        "resource_type": "image"
+                                    }
+                                }
+                            },
+                            "hash": "1692350350virinchi_hospital_a4eab406c8",
+                            "ext": ".webp",
+                            "mime": "image/webp",
+                            "size": 42.92,
+                            "url": "https://res.cloudinary.com/dm5ey9xov/image/upload/v1702330890/1692350350virinchi_hospital_a4eab406c8.webp",
+                            "previewUrl": null,
+                            "provider": "cloudinary",
+                            "provider_metadata": {
+                                "public_id": "1692350350virinchi_hospital_a4eab406c8",
+                                "resource_type": "image"
+                            },
+                            "createdAt": "2023-12-11T21:41:31.388Z",
+                            "updatedAt": "2023-12-11T21:41:31.388Z"
+                        }
+                    }
+                },
+                "categories": {
+                    "data": [
+                        {
+                            "id": 2,
+                            "attributes": {
+                                "Name": "Cardiologist",
+                                "createdAt": "2023-12-11T20:40:00.511Z",
+                                "updatedAt": "2023-12-11T20:52:09.053Z",
+                                "publishedAt": "2023-12-11T20:40:01.261Z"
+                            }
+                        },
+                        {
+                            "id": 4,
+                            "attributes": {
+                                "Name": "Orthopaedic ",
+                                "createdAt": "2023-12-11T20:40:40.624Z",
+                                "updatedAt": "2023-12-11T20:51:39.394Z",
+                                "publishedAt": "2023-12-11T20:40:41.377Z"
+                            }
+                        },
+                        {
+                            "id": 3,
+                            "attributes": {
+                                "Name": "Neurologist",
+                                "createdAt": "2023-12-11T20:40:22.943Z",
+                                "updatedAt": "2023-12-11T20:51:51.481Z",
+                                "publishedAt": "2023-12-11T20:40:23.666Z"
+                            }
+                        },
+                        {
+                            "id": 5,
+                            "attributes": {
+                                "Name": "Paediatric",
+                                "createdAt": "2023-12-11T20:41:03.475Z",
+                                "updatedAt": "2023-12-11T20:51:25.191Z",
+                                "publishedAt": "2023-12-11T20:41:04.213Z"
+                            }
+                        },
+                        {
+                            "id": 6,
+                            "attributes": {
+                                "Name": "Urologist",
+                                "createdAt": "2023-12-12T01:07:50.795Z",
+                                "updatedAt": "2023-12-12T01:07:55.403Z",
+                                "publishedAt": "2023-12-12T01:07:55.398Z"
+                            }
+                        },
+                        {
+                            "id": 7,
+                            "attributes": {
+                                "Name": "Gynaecologist",
+                                "createdAt": "2023-12-12T01:08:39.199Z",
+                                "updatedAt": "2023-12-12T01:08:40.008Z",
+                                "publishedAt": "2023-12-12T01:08:40.004Z"
+                            }
+                        },
+                        {
+                            "id": 8,
+                            "attributes": {
+                                "Name": "Radiologist",
+                                "createdAt": "2023-12-12T01:10:04.465Z",
+                                "updatedAt": "2023-12-12T01:10:05.781Z",
+                                "publishedAt": "2023-12-12T01:10:05.779Z"
+                            }
+                        }
+                    ]
+                },
+                "appointments": {
+                    "data": []
+                },
+                "doctors": {
+                    "data": [
+                        {
+                            "id": 9,
+                            "attributes": {
+                                "Name": "Dr. Mustafa Faisal",
+                                "Address": "Banjara Hills, Hyderabad",
+                                "Patients": "340+",
+                                "Year_of_Experience": "14",
+                                "StartTime": "12:00:00.000",
+                                "EndTime": "23:45:00.000",
+                                "About": "Dr. Mustafa Faisal is a highly skilled doctor in Hyderabad.",
+                                "createdAt": "2023-12-12T01:58:39.561Z",
+                                "updatedAt": "2023-12-12T01:58:41.087Z",
+                                "publishedAt": "2023-12-12T01:58:41.081Z"
+                            }
+                        },
+                        {
+                            "id": 15,
+                            "attributes": {
+                                "Name": "Dr. Alluri Vasu",
+                                "Address": "Banjara Hills",
+                                "Patients": "450+",
+                                "Year_of_Experience": "15",
+                                "StartTime": "12:00:00.000",
+                                "EndTime": "23:45:00.000",
+                                "About": "Dr. Alluri Vasu is one of the most esteemed doctor in Hyderabad.",
+                                "createdAt": "2023-12-12T02:09:05.332Z",
+                                "updatedAt": "2023-12-12T02:09:06.289Z",
+                                "publishedAt": "2023-12-12T02:09:06.285Z"
+                            }
+                        },
+                        {
+                            "id": 18,
+                            "attributes": {
+                                "Name": "Dr. Shaeq Mirza",
+                                "Address": "Banjara Hills, Hyderabad",
+                                "Patients": "650+",
+                                "Year_of_Experience": "17",
+                                "StartTime": "13:00:00.000",
+                                "EndTime": "16:00:00.000",
+                                "About": "Dr. Shaeq Mirza is one of the most esteemed doctor in Hyderabad.",
+                                "createdAt": "2023-12-12T02:15:42.479Z",
+                                "updatedAt": "2023-12-12T02:15:59.272Z",
+                                "publishedAt": "2023-12-12T02:15:43.609Z"
+                            }
+                        },
+                        {
+                            "id": 20,
+                            "attributes": {
+                                "Name": "Dr. Ks Nayak",
+                                "Address": "Banjara Hills, Hyderabad",
+                                "Patients": "650+",
+                                "Year_of_Experience": "38",
+                                "StartTime": "10:00:00.000",
+                                "EndTime": "16:00:00.000",
+                                "About": "Dr. Ks Nayak is one of the most esteemed doctor in Hyderabad.",
+                                "createdAt": "2023-12-12T02:18:18.374Z",
+                                "updatedAt": "2023-12-12T02:18:19.856Z",
+                                "publishedAt": "2023-12-12T02:18:19.852Z"
+                            }
+                        },
+                        {
+                            "id": 23,
+                            "attributes": {
+                                "Name": "Dr. N. Anand",
+                                "Address": "Banjara Hills, Hyderabad",
+                                "Patients": "600+",
+                                "Year_of_Experience": "21",
+                                "StartTime": "12:00:00.000",
+                                "EndTime": "23:45:00.000",
+                                "About": "Dr. N. Anand is a renowned doctor in Hyderabad.",
+                                "createdAt": "2023-12-12T02:22:26.243Z",
+                                "updatedAt": "2023-12-12T02:22:27.622Z",
+                                "publishedAt": "2023-12-12T02:22:27.616Z"
+                            }
+                        }
+                    ]
+                },
+                "deleteimg": {
+                    "data": null
+                }
+            }
+        },
+        {
+            "id": 8,
+            "attributes": {
+                "Name": "Yashoda Hospitals",
+                "Address": "Madhapur, Hyderabad",
+                "Email": "query@yashodamail.com",
+                "Website": "https://www.yashodahospitals.com/",
+                "Phone": null,
+                "Description": "Yashoda Group of Hospitals, Hyderabad, India has been delivering excellence in healthcare for the last three decades. Our highly experienced personnel are well equipped with advanced technology to treat patients and adhere to international standards for all facilities and perform advanced treatment and procedures. Thus, we are trusted by patients pan-India and globally.\n\nFor our international patients, care goes beyond their hospital visit. Our International Patients Services Team addresses concerns regarding visa and travel arrangements, hotel bookings, provision of translators, and international insurance coverage, ensuring a smooth stay conducive to good health.",
+                "Premium": true,
+                "OpeningHours": "07:00:00.000",
+                "createdAt": "2023-12-11T21:44:04.923Z",
+                "updatedAt": "2023-12-11T22:07:53.791Z",
+                "publishedAt": "2023-12-11T21:44:05.972Z",
+                "views": 9.8,
+                "image": {
+                    "data": {
+                        "id": 24,
+                        "attributes": {
+                            "name": "Hitec-Building-new.jpg",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 850,
+                            "height": 560,
+                            "formats": {
+                                "thumbnail": {
+                                    "ext": ".jpg",
+                                    "url": "https://res.cloudinary.com/dm5ey9xov/image/upload/v1702330969/thumbnail_Hitec_Building_new_7b79a58941.jpg",
+                                    "hash": "thumbnail_Hitec_Building_new_7b79a58941",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_Hitec-Building-new.jpg",
+                                    "path": null,
+                                    "size": 10.4,
+                                    "width": 237,
+                                    "height": 156,
+                                    "provider_metadata": {
+                                        "public_id": "thumbnail_Hitec_Building_new_7b79a58941",
+                                        "resource_type": "image"
+                                    }
+                                }
+                            },
+                            "hash": "Hitec_Building_new_7b79a58941",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "size": 100.82,
+                            "url": "https://res.cloudinary.com/dm5ey9xov/image/upload/v1702330968/Hitec_Building_new_7b79a58941.jpg",
+                            "previewUrl": null,
+                            "provider": "cloudinary",
+                            "provider_metadata": {
+                                "public_id": "Hitec_Building_new_7b79a58941",
+                                "resource_type": "image"
+                            },
+                            "createdAt": "2023-12-11T21:42:50.252Z",
+                            "updatedAt": "2023-12-11T21:42:50.252Z"
+                        }
+                    }
+                },
+                "categories": {
+                    "data": [
+                        {
+                            "id": 2,
+                            "attributes": {
+                                "Name": "Cardiologist",
+                                "createdAt": "2023-12-11T20:40:00.511Z",
+                                "updatedAt": "2023-12-11T20:52:09.053Z",
+                                "publishedAt": "2023-12-11T20:40:01.261Z"
+                            }
+                        },
+                        {
+                            "id": 3,
+                            "attributes": {
+                                "Name": "Neurologist",
+                                "createdAt": "2023-12-11T20:40:22.943Z",
+                                "updatedAt": "2023-12-11T20:51:51.481Z",
+                                "publishedAt": "2023-12-11T20:40:23.666Z"
+                            }
+                        },
+                        {
+                            "id": 5,
+                            "attributes": {
+                                "Name": "Paediatric",
+                                "createdAt": "2023-12-11T20:41:03.475Z",
+                                "updatedAt": "2023-12-11T20:51:25.191Z",
+                                "publishedAt": "2023-12-11T20:41:04.213Z"
+                            }
+                        },
+                        {
+                            "id": 1,
+                            "attributes": {
+                                "Name": "Dentist",
+                                "createdAt": "2023-12-11T20:36:04.237Z",
+                                "updatedAt": "2023-12-11T20:52:00.715Z",
+                                "publishedAt": "2023-12-11T20:36:05.527Z"
+                            }
+                        },
+                        {
+                            "id": 4,
+                            "attributes": {
+                                "Name": "Orthopaedic ",
+                                "createdAt": "2023-12-11T20:40:40.624Z",
+                                "updatedAt": "2023-12-11T20:51:39.394Z",
+                                "publishedAt": "2023-12-11T20:40:41.377Z"
+                            }
+                        },
+                        {
+                            "id": 6,
+                            "attributes": {
+                                "Name": "Urologist",
+                                "createdAt": "2023-12-12T01:07:50.795Z",
+                                "updatedAt": "2023-12-12T01:07:55.403Z",
+                                "publishedAt": "2023-12-12T01:07:55.398Z"
+                            }
+                        },
+                        {
+                            "id": 7,
+                            "attributes": {
+                                "Name": "Gynaecologist",
+                                "createdAt": "2023-12-12T01:08:39.199Z",
+                                "updatedAt": "2023-12-12T01:08:40.008Z",
+                                "publishedAt": "2023-12-12T01:08:40.004Z"
+                            }
+                        },
+                        {
+                            "id": 8,
+                            "attributes": {
+                                "Name": "Radiologist",
+                                "createdAt": "2023-12-12T01:10:04.465Z",
+                                "updatedAt": "2023-12-12T01:10:05.781Z",
+                                "publishedAt": "2023-12-12T01:10:05.779Z"
+                            }
+                        }
+                    ]
+                },
+                "appointments": {
+                    "data": []
+                },
+                "doctors": {
+                    "data": [
+                        {
+                            "id": 10,
+                            "attributes": {
+                                "Name": "Dr. Surya Prakash",
+                                "Address": "Panjagutta, Hyderabad",
+                                "Patients": "400+",
+                                "Year_of_Experience": "19",
+                                "StartTime": "09:00:00.000",
+                                "EndTime": "17:00:00.000",
+                                "About": "Dr. Surya Prakash is a reputed doctor in Hyderabad with over 19 years of experience.",
+                                "createdAt": "2023-12-12T02:00:25.636Z",
+                                "updatedAt": "2023-12-12T02:00:26.824Z",
+                                "publishedAt": "2023-12-12T02:00:26.819Z"
+                            }
+                        },
+                        {
+                            "id": 21,
+                            "attributes": {
+                                "Name": "Dr. Guru Prakash",
+                                "Address": "Panjagutta, Hyderabad ",
+                                "Patients": "450+",
+                                "Year_of_Experience": "20",
+                                "StartTime": "09:00:00.000",
+                                "EndTime": "17:00:00.000",
+                                "About": "Dr. Guru Prakash is one of the most esteemed doctor in Hyderabad.",
+                                "createdAt": "2023-12-12T02:20:16.131Z",
+                                "updatedAt": "2023-12-12T02:20:17.290Z",
+                                "publishedAt": "2023-12-12T02:20:17.284Z"
+                            }
+                        }
+                    ]
+                },
+                "deleteimg": {
+                    "data": null
+                }
+            }
+        },
+        {
+            "id": 9,
+            "attributes": {
+                "Name": "V.S. Super Speciality Dental Hospitals",
+                "Address": " Chaitanyapuri, Hyderabad",
+                "Email": "noemail@xyz.com",
+                "Website": "https://www.clinicspots.com/hospital/vs-super-speciality-dental-hospitals-4",
+                "Phone": null,
+                "Description": "V S Super Speciality Dental Hospitals in Hyderabad is one of the leading businesses in the Dental Surgeons. Also known for Hospitals, Dental Hospitals, Dentists, Multispeciality Hospitals, Cosmetic Surgeon Doctors, Dental Surgeons, Orthodontist Doctors, Dental X Ray Centres and much more. Find Address, Contact Number, Reviews & Ratings, Photos, Maps of V S Super Speciality Dental Hospitals, Hyderabad.",
+                "Premium": false,
+                "OpeningHours": "10:00:00.000",
+                "createdAt": "2023-12-11T21:47:21.769Z",
+                "updatedAt": "2023-12-11T21:47:22.615Z",
+                "publishedAt": "2023-12-11T21:47:22.610Z",
+                "views": null,
+                "image": {
+                    "data": {
+                        "id": 25,
+                        "attributes": {
+                            "name": "v-s-super-speciality-dental-hospitals-chaitanyapuri-hyderabad-dentists-pu16wb0qit.avif",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": null,
+                            "height": null,
+                            "formats": null,
+                            "hash": "v_s_super_speciality_dental_hospitals_chaitanyapuri_hyderabad_dentists_pu16wb0qit_4053ff3657",
+                            "ext": ".avif",
+                            "mime": "image/avif",
+                            "size": 18.92,
+                            "url": "https://res.cloudinary.com/dm5ey9xov/image/upload/v1702331176/v_s_super_speciality_dental_hospitals_chaitanyapuri_hyderabad_dentists_pu16wb0qit_4053ff3657.avif",
+                            "previewUrl": null,
+                            "provider": "cloudinary",
+                            "provider_metadata": {
+                                "public_id": "v_s_super_speciality_dental_hospitals_chaitanyapuri_hyderabad_dentists_pu16wb0qit_4053ff3657",
+                                "resource_type": "image"
+                            },
+                            "createdAt": "2023-12-11T21:46:17.564Z",
+                            "updatedAt": "2023-12-11T21:46:17.564Z"
+                        }
+                    }
+                },
+                "categories": {
+                    "data": [
+                        {
+                            "id": 1,
+                            "attributes": {
+                                "Name": "Dentist",
+                                "createdAt": "2023-12-11T20:36:04.237Z",
+                                "updatedAt": "2023-12-11T20:52:00.715Z",
+                                "publishedAt": "2023-12-11T20:36:05.527Z"
+                            }
+                        }
+                    ]
+                },
+                "appointments": {
+                    "data": []
+                },
+                "doctors": {
+                    "data": [
+                        {
+                            "id": 11,
+                            "attributes": {
+                                "Name": "Dr. A.venkat Ram Reddy",
+                                "Address": "Chaitanyapuri, Hyderabad",
+                                "Patients": "270+",
+                                "Year_of_Experience": "11",
+                                "StartTime": "10:00:00.000",
+                                "EndTime": "19:00:00.000",
+                                "About": "Dr. A.venkat Reddy is one of the most esteemed Dentist in Hyderabad.He holds an experience of 11 years in medical field. He has completed his BDS from Sree Sai Dental College Research Institute in 2010. He carries his medicinal practice at V.s Super Speciality Dental Hospitals in Nagole(Hyderabad), V.s Super Speciality Dental Hospitals in Nagole(Hyderabad), V.s Super Speciality Dental Hospitals in Vanasthalipuram(Hyderabad) and V.s Super Speciality Dental Hospitals in Kothapet(Hyderabad).",
+                                "createdAt": "2023-12-12T02:02:53.132Z",
+                                "updatedAt": "2023-12-12T02:02:54.485Z",
+                                "publishedAt": "2023-12-12T02:02:54.478Z"
+                            }
+                        }
+                    ]
+                },
+                "deleteimg": {
+                    "data": null
+                }
+            }
+        },
+        {
+            "id": 10,
+            "attributes": {
+                "Name": "Sai Siddhartha Super Speciality Hospital",
+                "Address": "Kompally, hyderabad",
+                "Email": "noemail@xyz.com",
+                "Website": "https://twitter.com/ssh_kompally",
+                "Phone": null,
+                "Description": "Established in the year 2023, Sai Siddhartha Super Speciality Hospital in Kompally, Rangareddy, Hyderabad is a top player in the category Hospitals in the Rangareddy, Hyderabad. This well-known establishment acts as a one-stop destination servicing customers both local and from other parts of Rangareddy, Hyderabad. Over the course of its journey, this business has established a firm foothold in it’s industry. The belief that customer satisfaction is as important as their products and services, have helped this establishment garner a vast base of customers, which continues to grow by the day. This business employs individuals that are dedicated towards their respective roles and put in a lot of effort to achieve the common vision and larger goals of the company. In the near future, this business aims to expand its line of products and services and cater to a larger client base. In Rangareddy, Hyderabad, this establishment occupies a prominent location in Kompally. It is an effortless task in commuting to this establishment as there are various modes of transport readily available. It is at Brundavan Colony, Behind Prajay Raichandini Mall, which makes it easy for first-time visitors in locating this establishment. It is known to provide top service in the following categories: Hospitals, Dermatologists, Gynaecologist & Obstetrician Doctors, ENT Hospitals, Orthopaedic Doctors, General Physician Doctors, ENT Doctors, Neurologists. ",
+                "Premium": false,
+                "OpeningHours": "08:00:00.000",
+                "createdAt": "2023-12-11T21:51:02.098Z",
+                "updatedAt": "2023-12-11T22:07:28.728Z",
+                "publishedAt": "2023-12-11T21:52:26.632Z",
+                "views": 1.2,
+                "image": {
+                    "data": {
+                        "id": 27,
+                        "attributes": {
+                            "name": "sai-siddhartha-hospital-shapur-nagar-hyderabad-hospitals-csm538jdne.avif",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": null,
+                            "height": null,
+                            "formats": null,
+                            "hash": "sai_siddhartha_hospital_shapur_nagar_hyderabad_hospitals_csm538jdne_67c624000d",
+                            "ext": ".avif",
+                            "mime": "image/avif",
+                            "size": 14.15,
+                            "url": "https://res.cloudinary.com/dm5ey9xov/image/upload/v1702331449/sai_siddhartha_hospital_shapur_nagar_hyderabad_hospitals_csm538jdne_67c624000d.avif",
+                            "previewUrl": null,
+                            "provider": "cloudinary",
+                            "provider_metadata": {
+                                "public_id": "sai_siddhartha_hospital_shapur_nagar_hyderabad_hospitals_csm538jdne_67c624000d",
+                                "resource_type": "image"
+                            },
+                            "createdAt": "2023-12-11T21:50:49.800Z",
+                            "updatedAt": "2023-12-11T21:50:49.800Z"
+                        }
+                    }
+                },
+                "categories": {
+                    "data": [
+                        {
+                            "id": 4,
+                            "attributes": {
+                                "Name": "Orthopaedic ",
+                                "createdAt": "2023-12-11T20:40:40.624Z",
+                                "updatedAt": "2023-12-11T20:51:39.394Z",
+                                "publishedAt": "2023-12-11T20:40:41.377Z"
+                            }
+                        },
+                        {
+                            "id": 2,
+                            "attributes": {
+                                "Name": "Cardiologist",
+                                "createdAt": "2023-12-11T20:40:00.511Z",
+                                "updatedAt": "2023-12-11T20:52:09.053Z",
+                                "publishedAt": "2023-12-11T20:40:01.261Z"
+                            }
+                        }
+                    ]
+                },
+                "appointments": {
+                    "data": []
+                },
+                "doctors": {
+                    "data": []
+                },
+                "deleteimg": {
+                    "data": null
+                }
+            }
+        },
+        {
+            "id": 11,
+            "attributes": {
+                "Name": "Pristyn Care",
+                "Address": "Hitech City, Hyderabad",
+                "Email": "help@pristyncare.com",
+                "Website": "https://www.pristyncare.com",
+                "Phone": null,
+                "Description": "Pristyn Care is a new-age healthcare company with a laser-sharp focus on simplifying the entire surgery journey of a patient and his/her attendant by offering care and assistance at each and every step. Pristyn Care ensures that the patient’s experience right from the discovery of the right doctor, to booking an appointment at the clinic, getting a detailed diagnosis done, booking tests at a diagnostic center, getting insurance paperwork done, commuting from home to the hospital & back on the day of the surgery, admission-discharge processes at the hospital, and follow-up consultation after the surgery – is hassle-free and care-filled.\n\nPristyn Care commits to enhancing access and ensuring high quality secondary-care surgeries through an innovative care model. Pristyn Care operates on an innovative full- stack Care delivery model  to ensure that high quality surgical care is offered to patients at an affordable cost. The company has partnerships with health insurance companies and financing providers. These partnerships help in easy and faster cashless claim approvals and EMIs facilities at 0% interest.\n\nPristyn Care surgical centers are currently functional across 7 metro cities – Mumbai, Pune, Delhi, Bangalore, Hyderabad, Chennai and Kolkata – and  35 tier 2 & 3 cities across the country. Operating in over 12 surgical categories such as General Surgery, Ophthalmology, ENT, Urology, Gynaecology, Pristyn Care, has successfully treated over 60,000 patients and completed 1 Million  patient interactions.",
+                "Premium": false,
+                "OpeningHours": "07:00:00.000",
+                "createdAt": "2023-12-11T21:55:15.842Z",
+                "updatedAt": "2023-12-11T22:07:19.127Z",
+                "publishedAt": "2023-12-11T21:55:17.278Z",
+                "views": 3.6,
+                "image": {
+                    "data": {
+                        "id": 28,
+                        "attributes": {
+                            "name": "download.jpg",
+                            "alternativeText": null,
+                            "caption": null,
+                            "width": 308,
+                            "height": 163,
+                            "formats": {
+                                "thumbnail": {
+                                    "ext": ".jpg",
+                                    "url": "https://res.cloudinary.com/dm5ey9xov/image/upload/v1702331605/thumbnail_download_860f06e44e.jpg",
+                                    "hash": "thumbnail_download_860f06e44e",
+                                    "mime": "image/jpeg",
+                                    "name": "thumbnail_download.jpg",
+                                    "path": null,
+                                    "size": 7.46,
+                                    "width": 245,
+                                    "height": 130,
+                                    "provider_metadata": {
+                                        "public_id": "thumbnail_download_860f06e44e",
+                                        "resource_type": "image"
+                                    }
+                                }
+                            },
+                            "hash": "download_860f06e44e",
+                            "ext": ".jpg",
+                            "mime": "image/jpeg",
+                            "size": 7.16,
+                            "url": "https://res.cloudinary.com/dm5ey9xov/image/upload/v1702331605/download_860f06e44e.jpg",
+                            "previewUrl": null,
+                            "provider": "cloudinary",
+                            "provider_metadata": {
+                                "public_id": "download_860f06e44e",
+                                "resource_type": "image"
+                            },
+                            "createdAt": "2023-12-11T21:53:26.154Z",
+                            "updatedAt": "2023-12-11T21:53:26.154Z"
+                        }
+                    }
+                },
+                "categories": {
+                    "data": [
+                        {
+                            "id": 5,
+                            "attributes": {
+                                "Name": "Paediatric",
+                                "createdAt": "2023-12-11T20:41:03.475Z",
+                                "updatedAt": "2023-12-11T20:51:25.191Z",
+                                "publishedAt": "2023-12-11T20:41:04.213Z"
+                            }
+                        },
+                        {
+                            "id": 8,
+                            "attributes": {
+                                "Name": "Radiologist",
+                                "createdAt": "2023-12-12T01:10:04.465Z",
+                                "updatedAt": "2023-12-12T01:10:05.781Z",
+                                "publishedAt": "2023-12-12T01:10:05.779Z"
+                            }
+                        }
+                    ]
+                },
+                "appointments": {
+                    "data": []
+                },
+                "doctors": {
+                    "data": []
+                },
+                "deleteimg": {
+                    "data": null
+                }
+            }
+        }
+    ],
+    "meta": {
+        "pagination": {
+            "page": 1,
+            "pageSize": 25,
+            "pageCount": 1,
+            "total": 10
+        }
+    }
+}
